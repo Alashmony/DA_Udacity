@@ -1,2 +1,2 @@
 # DA_Udacity
-My projects in the Data Analyst Nanodegree from Udacity(c)
+My codes while studying and making projects in the Data Analyst Nanodegree from Udacity(c).
