@@ -1,0 +1,7 @@
+Select global_data.year as "Year", global_data.avg_temp AS "Global AVG Temp",
+CT "Cairo's AVG Temp"
+from global_data
+Join (Select city_data.year YeR, city_data.avg_temp  CT		
+      	from city_data
+      	Where city_data.city ='Cairo') CAI
+ ON global_data.year=CAI.YeR

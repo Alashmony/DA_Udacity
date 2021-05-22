@@ -1,0 +1,7 @@
+https://classroom.udacity.com/nanodegrees/nd002-ent/parts/c785f82a-bb1d-471e-91a1-3ddb0851db3d
+https://docs.python.org/3/library/pdb.html
+https://ipython.readthedocs.io/en/stable/interactive/magics.html
+https://nbconvert.readthedocs.io/en/latest/usage.html
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
+https://stackoverflow.com/questions/41256648/select-multiple-ranges-of-columns-in-pandas-dataframe

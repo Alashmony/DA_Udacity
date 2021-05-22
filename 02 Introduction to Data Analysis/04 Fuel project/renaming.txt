@@ -1,0 +1,5 @@
+# replace spaces with underscores and lowercase labels for 2008 dataset
+df_08.rename(columns=lambda x: x.strip().lower().replace(" ", "_"), inplace=True)
+
+# confirm changes
+df_08.head(1)

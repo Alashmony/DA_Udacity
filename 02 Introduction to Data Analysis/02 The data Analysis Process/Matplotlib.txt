@@ -1,0 +1,9 @@
+.hist(figsize=(x,y));
+.plot(x='Col_1', y='Col_2',kind='',figsize = (x,y));
+.plot();
+.plotting.scatter_matrix(table_name, figsize = (x,y));
+
+
+
+From pands     ==> .value_counts()
+kinds... 'hist', 'pie', 'scatter', 'box'

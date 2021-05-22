@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Maximum_likelihood_estimation
+https://en.wikipedia.org/wiki/Method_of_moments_(statistics)
+https://en.wikipedia.org/wiki/Bayes_estimator
+
+https://en.wikipedia.org/wiki/Bradley_Efron
+https://stats.stackexchange.com/questions/26088/explaining-to-laypeople-why-bootstrapping-works

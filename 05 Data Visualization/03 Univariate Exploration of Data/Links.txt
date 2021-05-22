@@ -1,0 +1,53 @@
+countplot:
+https://seaborn.pydata.org/generated/seaborn.countplot.html
+
+color palette:
+https://seaborn.pydata.org/generated/seaborn.color_palette.html
+
+String forma:
+https://en.wikipedia.org/wiki/Printf_format_string#Syntax
+
+Value counts
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.value_counts.html
+
+matplotlib yticks:
+https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.yticks.html
+
+matplotlib text:
+https://matplotlib.org/api/text_api.html?highlight=get_text#matplotlib.text.Text
+
+Database:
+https://github.com/veekun/pokedex/tree/master/pokedex/data/csv
+
+Pie Chart and Donut Chart:
+https://matplotlib.org/api/_as_gen/matplotlib.patches.Wedge.html
+https://eagereyes.org/pie-charts
+https://eagereyes.org/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results
+https://academy.datawrapper.de/article/127-what-to-consider-when-creating-a-pie-chart
+
+plt Subplot:
+https://matplotlib.org/api/_as_gen/matplotlib.pyplot.subplot.html
+
+pltFigure:
+https://matplotlib.org/api/_as_gen/matplotlib.pyplot.figure.html
+
+sb distplot:
+https://seaborn.pydata.org/generated/seaborn.distplot.html
+
+Lognormal Distribution:
+https://en.wikipedia.org/wiki/Log-normal_distribution
+
+Log:
+https://www.khanacademy.org/math/algebra2-2018/exponential-and-logarithmic-functions
+
+numpy log10:
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.log10.html
+
+plt xlabel:
+https://matplotlib.org/api/_as_gen/matplotlib.pyplot.xlabel.html
+
+plt xscale:
+https://matplotlib.org/api/_as_gen/matplotlib.pyplot.xscale.html
+
+KDE Plot:
+https://seaborn.pydata.org/generated/seaborn.kdeplot.html

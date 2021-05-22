@@ -1,0 +1,77 @@
+https://www.rottentomatoes.com/top/bestofrt/
+
+https://www.rogerebert.com/
+https://amueller.github.io/word_cloud/
+
+CMD:
+https://www.digitalcitizen.life/command-prompt-how-use-basic-commands
+
+Excel files:
+http://professor-excel.com/xml-zip-excel-file-structure/
+
+https://pandas.pydata.org/pandas-docs/stable/reference/index.html
+
+HTML Beautiful Soup:
+https://www.crummy.com/software/BeautifulSoup/
+Unicode problems:
+https://stackoverflow.com/questions/19508442/beautiful-soup-and-unicode-problems
+Remove xa:
+https://stackoverflow.com/questions/10993612/python-removing-xa0-from-string
+
+Ethics in webscrapping:
+https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01
+
+https://twitter.com/venturidb/status/734757220525715456
+
+Build career from scratch:
+https://blog.udacity.com/2015/03/3-web-developers-built-careers-scratch-part-two-cameron-pittman.html
+
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/#searching-the-tree
+
+Tableau:
+https://public.tableau.com/profile/david.venturi#!/vizhome/BestofRottenTomatoesCriticvs_AudienceScores/BestofRottenTomatoesCriticvs_AudienceScores
+
+Requests:
+https://2.python-requests.org//en/master/
+https://docs.python.org/3/howto/urllib2.html
+
+File mode wb:
+https://stackoverflow.com/questions/2665866/what-does-wb-mean-in-this-code-using-python
+
+File modes:
+https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
+
+Unicode and Character Sets:
+https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+http://kunststube.net/encoding/
+
+https://stackoverflow.com/questions/3951722/whats-the-difference-between-unicode-and-utf-8
+http://lucumr.pocoo.org/2014/1/5/unicode-in-2-and-3/
+
+glob:
+https://docs.python.org/3/library/glob.html
+https://en.wikipedia.org/wiki/Glob_(programming)
+
+https://stackoverflow.com/a/22288895
+https://stackoverflow.com/questions/8009882/how-to-read-a-large-file-line-by-line/8010133#8010133
+https://stackoverflow.com/questions/16994552/is-file-object-in-python-an-iterable/16994568#16994568
+
+MediaWiki:
+https://www.mediawiki.org/wiki/API:Main_page#A_simple_example
+
+Wptools:
+https://github.com/siznax/wptools
+
+JSON, XML and difference:
+https://www.tibco.com/blog/2014/01/23/api-data-exchange-xml-vs-json/
+
+JSON:
+https://docs.python-guide.org/scenarios/json/
+
+Errors and Exceptions:
+https://www.pythonforbeginners.com/error-handling/python-errors-and-exceptions/
+https://docs.python.org/3/library/exceptions.html
+Try and Except:
+https://www.pythonforbeginners.com/error-handling/python-try-and-except
+
+https://www.sqlalchemy.org/

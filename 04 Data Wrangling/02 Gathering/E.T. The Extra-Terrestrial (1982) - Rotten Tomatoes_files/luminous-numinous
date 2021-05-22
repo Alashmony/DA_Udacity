@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!--[if IE 8]><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><![endif]-->
+<base href="https://www.lrb.co.uk/v05/n01/paul-joannides/luminous-numinous" />
+<title>Paul Joannides · Luminous/Numinous · LRB 10 January 1983</title>
+<link rel="canonical" href="https://www.lrb.co.uk/v05/n01/paul-joannides/luminous-numinous" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.lrb.co.uk/assets/images/apple-touch-icon.1520004631.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.lrb.co.uk/assets/images/favicon-32x32.1520004631.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.lrb.co.uk/assets/images/favicon-16x16.1520004631.png" />
+<link rel="manifest" href="https://cdn.lrb.co.uk/site.webmanifest" />
+<link rel="mask-icon" href="https://cdn.lrb.co.uk/assets/images/safari-pinned-tab.1520004631.svg" color="#17365c" />
+<link rel="shortcut icon" href="https://cdn.lrb.co.uk/assets/images/favicon.1520004631.ico" />
+<meta name="msapplication-TileColor" content="#17365c" />
+<meta name="msapplication-config" content="https://cdn.lrb.co.uk/browserconfig.xml" />
+<meta name="theme-color" content="#17365c" />
+<link rel="alternate" href="https://cdn.lrb.co.uk/feeds/lrb" type="application/rss+xml" title="LRB feed" />
+<link rel="stylesheet" href="https://cdn.lrb.co.uk/assets/css/style-screen.1522338345.css" type="text/css" />
+<!--[if lt IE 7]><link rel="stylesheet" href="https://cdn.lrb.co.uk/assets/css/lt-ie-7.1504703952.css" type="text/css"><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="https://cdn.lrb.co.uk/assets/css/eq-ie-7.1504703952.css" type="text/css"><![endif]-->
+<meta name="msapplication-config" content="none" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@LRB" />
+<meta name="twitter:title" content="Paul Joannides · Luminous/Numinous" />
+<meta property="og:title" content="LRB · Paul Joannides · Luminous/Numinous" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.lrb.co.uk/v05/n01/paul-joannides/luminous-numinous" />
+<meta property="og:description" content="Certain to become the most financially successful film in the history of the cinema, the fifth great money-spinner – after Jaws, Close Encounters, Raiders of the Lost Ark and Poltergeist – by the wunderkind Steven Spielberg, a film so effectively pre-sold that distributors were fretting . . ." />
+<meta property="og:image" content="https://cdn.lrb.co.uk/assets/covers/q/cov0501.jpg?1447558253" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="300" />
+<meta property="og:image:height" content="300" />
+<meta property="og:site_name" content="London Review of Books" />
+<script type="text/javascript">
+//<![CDATA[
+var OA_links={"UK":"https:\/\/www.mylrb.co.uk\/net","EU":"https:\/\/www.mylrb.co.uk\/net","RW":"https:\/\/www.mylrb.co.uk\/net","US":"https:\/\/www.mylrb.com\/20801\/apps\/ORDOPTION4LANDING?ikey=I**WEB","CA":"https:\/\/www.mylrb.com\/20801\/apps\/ORDOPTION4LANDING?ikey=I**WEB#CA","US_gift":"https:\/\/www.mylrb.com\/20801\/apps\/GFTOPTION1LANDING?ikey=F**GFT","CA_gift":"https:\/\/www.mylrb.com\/20801\/apps\/GFTOPTION1LANDING?ikey=F**GFT#CA"};
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga("create", "UA-186611-1", document.location.hostname, {allowLinker:true});
+ga("require", "linker");
+ga("require", "displayfeatures");
+ga("require", "GTM-NN58TPQ");
+ga("set", {"anonymizeIp":true,"dimension1":"film_review","dimension2":"full"});
+ga("require", "gaSegment");
+ga("gaSegment:set", "dimension6");
+!/^\/(v[0-9]{2}\/n[0-9]{2}|[0-9]{4}\/[0-9]{2}\/[0-9]{2}|contributors)\//.test(location.pathname)&&/^https?:\/\/www\.google(\.[a-z0-9-]{2,3})+\/(.*[?&]q=(&.*)?)?$/.test(document.referrer)&&ga("set",{campaignName:"(organic)",campaignSource:"google",campaignMedium:"organic",campaignKeyword:"(lrb)"});
+ga("set","page",location.pathname+location.search.replace(/([?&])(?:key=[A-Za-z0-9.\/]{32}|uid=[A-Fa-f0-9]{32}|email=[^&]+)(?:(?=&)|$)/g,"$1").replace(/([?&])&+/g,"$1").replace(/[?&]$/,""));
+var _lrbq=_lrbq||[];_lrbq.push(function(){window.gaSegment=function(e){this.tracker=e},gaSegment.prototype.set=function(e){window.OA_segment&&this.tracker.set(e,OA_segment)};try{window.ga("provide","gaSegment",gaSegment)}catch(e){}});_lrbq.push(function(){window.gaSegment=function(e){this.tracker=e},gaSegment.prototype.set=function(e){window.OA_segment_pw&&this.tracker.set(e,OA_segment_pw)};try{window.ga("provide","gaSegment",gaSegment)}catch(e){}});
+//]]>
+</script>
+<!-- Global site tag (gtag.js) - Google AdWords: 1003569670 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1003569670"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-1003569670');
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '502907930132440'); 
+fbq('track', 'PageView');
+</script>
+<!--[if lt IE 9]><script src="https://cdn.lrb.co.uk/assets/javascript/html5.1317819830.js" type="text/javascript"></script><![endif]-->
+</head>
+
+<body>
+
+<div id="wrapper">
+
+<!-- header starts -->
+<div id="pagetop" class="nocss print-hide">
+<ul>
+<li><a href="#bodycontent" accesskey="s">skip navigation</a></li>
+<li><a href="/" accesskey="1">London Review of Books home page</a></li>
+<li><a href="/contents" accesskey="2">from the latest issue</a></li>
+<li><a href="/sitemap" accesskey="3">site map</a></li>
+<li><a href="/search" accesskey="4">site search</a></li>
+<li><a href="/about" accesskey="5">about the LRB</a></li>
+<li><a href="/terms" accesskey="8">terms &amp; conditions</a></li>
+<li><a href="/contacts" accesskey="9">contact information</a></li>
+<li><a href="/accessibility" accesskey="0">accessibility and view options</a></li>
+</ul>
+</div>
+<div id="nav-user" class="clearfix">
+<div class="left-align print-hide">
+<span id="login-details"><a class="loginout button" href="/login?href=%2Fv05%2Fn01%2Fpaul-joannides%2Fluminous-numinous">Log In</a> <a class="register button" href="/activate">Register for Online Access</a></span>
+<span id="inst-login-details" class="textlink"></span>
+<a name="pagetop">&nbsp;</a>
+</div>
+<div class="right-align print-hide">
+<form id="nav-search" action="/search" method="get" accept-charset="UTF-8" onsubmit="if (this.q.value == 'Search the LRB') this.q.value = ''"><div><input name="q" type="text" class="textfield" value="Search the LRB" id="searchbox" onfocus="this.value=''" onblur="if (this.value == '') this.value = 'Search the LRB'" /><input id="search-button" type="submit" value="" /></div></form>
+</div>
+</div>
+<div id="revive-leader" class="print-hide">
+<div id="OA_a5328254">
+<script type="text/javascript">var OA_host=OA_host||"https:\/\/rev.lrb.co.uk",OA_zones=OA_zones||[];OA_zones.push('OA_a5328254=32');</script>
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+//var _lrbq=_lrbq||[];_lrbq.push(function(){$(function(){"https://www.lrb.co.uk"==location.protocol+"//"+location.hostname&&$(document).on("click",".loginout",function(){var a=$(this).attr("href");$.get(a+(0<a.indexOf("?")?"&":"?")+"xhr="+url_encode(location.pathname+location.search+location.hash));return!1})})});
+//]]>
+</script>
+<div id="nav-banner" class="clearfix ">
+<p id="nav-logo"><a href="/"><img src="https://cdn.lrb.co.uk/assets/images/lrb_logo_big.gif" alt="London Review of Books" width="499" height="39" /></a></p>
+</div>
+<div id="nav-global">
+<ul class="navbar print-hide"><li><a href="/" class="first">Latest</a></li><li><a href="/archive" class="active">Archive</a></li><li><a href="/bookshop">Bookshop</a></li><li><a href="/contacts">Contact Us</a></li><li><a href="/about">About</a></li><li><a href="/store">Store</a></li><li><a href="/subscribe" class="last">Subscribe</a></li></ul>
+<ul class="nav-subnav print-hide"><li><a href="/archive" class="first">Introduction</a></li><li><a href="/v41/n15/contents">Back Issues</a></li><li><a href="/contributors">Contributors</a></li><li><a href="/categories">Categories</a></li><li><a href="/v41/n15/letters">Letters</a></li><li><a href="/audio">Audio</a></li><li><a href="/video" class="last">Video</a></li></ul>
+</div>
+<script>var _lrbq=_lrbq||[];_lrbq.push(function(){$("#nav-global a").on("click",function(){try{ga("send","event","NavBar","Click",$(this).text().trim())}catch(e){}});});</script>
+<!-- header ends -->
+
+<div id="bodycontent" class="t-w-t">
+
+<div id="panel">
+<div class="print-hide">
+<p class="cover"><a href="/v05/n01/contents"><img src="https://cdn.lrb.co.uk/assets/covers/m/cov0501.jpg" alt="LRB Cover" width="133" height="180" /></a></p>
+
+<p class="intro"><strong><a href="/contributors/paul-joannides" rel="author">Paul Joannides</a></strong></p>
+<div class="hr"></div><hr />
+
+<h2 class="allcaps">RELATED ARTICLES</h2>
+<span class="allcaps">1 August 2019</span>
+<h3 class="latest"><a href="/v41/n15/michael-wood/at-the-movies"><span class="large">Michael Wood</span><br />
+Agnès Varda</a></h3>
+<span class="allcaps">4 July 2019</span>
+<h3 class="latest"><a href="/v41/n13/michael-wood/at-the-movies"><span class="large">Michael Wood</span><br />
+‘Kind Hearts and Coronets’</a></h3>
+<span class="allcaps">20 June 2019</span>
+<h3 class="latest"><a href="/v41/n12/adam-shatz/who-does-that-for-anyone"><span class="large">Adam Shatz</span><br />
+Jean-Pierre Melville</a></h3>
+<span class="allcaps">6 June 2019</span>
+<h3 class="latest"><a href="/v41/n11/michael-wood/at-the-movies"><span class="large">Michael Wood</span><br />
+‘Avengers: Endgame’</a></h3>
+<span class="allcaps">9 May 2019</span>
+<h3 class="latest"><a href="/v41/n09/michael-wood/at-the-movies"><span class="large">Michael Wood</span><br />
+‘The Sisters Brothers’</a></h3>
+<span class="allcaps">4 April 2019</span>
+<h3 class="latest"><a href="/v41/n07/michael-wood/at-the-movies"><span class="large">Michael Wood</span><br />
+‘Swing Time’</a></h3>
+<span class="allcaps">4 April 2019</span>
+<h3 class="latest"><a href="/v41/n07/brian-dillon/at-the-towner-gallery"><span class="large">Brian Dillon</span><br />
+Carey Young</a></h3>
+<div class="hr"></div><hr />
+
+<h2 class="allcaps">RELATED CATEGORIES</h2>
+<p>
+<a href="/search?subject=Film,+television+and+media">Film, television and media</a>, <a href="/search?subject=Film,+television+and+media//Film">Film</a></p>
+<div class="hr"></div><hr />
+</div>
+
+<div id="OA_a2895295" class="revive-banner print-hide">
+<script type="text/javascript">var OA_host=OA_host||"https:\/\/rev.lrb.co.uk",OA_zones=OA_zones||[];OA_zones.push('OA_a2895295=61');</script>
+</div>
+</div><!-- #panel -->
+
+<div id="main">
+<div class="print-hide">
+<p class="meta-info"><a href="/v05/n01/contents">Vol. 5 No. 1 · 10 January 1983</a><br />
+page 16 | 2621 words</p>
+<ul class="article-controls top clearfix"></ul>
+<div class="hr"></div><hr />
+<p class="textsize"></p>
+<script type="text/javascript">
+//<![CDATA[
+var _lrbq=_lrbq||[];
+_lrbq.push(function(){$(function(){$(".textsize").append('<img src="https://cdn.lrb.co.uk/assets/css/images/icon_type.png" alt="T" width="15" height="16" class="icon-t" /><span class="icon-t-text"><span>larger</span> | <span>smaller</span></span>');$(".icon-t-text").children("span").css("cursor","pointer").click(function(c,b){var a=Math.min(Math.max(Math.round((parseInt(cookie.get("lrb-size"))||100)*(b?100:"larger"==$(this).text()?110:90.9)/100),68),146);if(cookie.get("lrb-size")||100!=a)cookie.set("lrb-size",a,100==
+a?1:cookie.days(30),"/");$(".article-body").css("font-size",a+"%")}).eq(0).trigger("click",[!0])})});
+//]]>
+</script>
+</div>
+
+<div class="article-body indent">
+
+<hgroup>
+<h1>Luminous/Numinous</h1>
+<h2>Paul Joannides thinks about Steven Spielberg’s film ‘E.T.’, the most successful in the history of the cinema</h2>
+</hgroup>
+
+
+
+
+<div class="print-hide"><div id="tp-article-header"></div></div>
+
+<p>Certain to become the most financially successful film in the history of the cinema, the fifth great money-spinner – after <em>Jaws, Close Encounters, Raiders of the Lost Ark</em> and <em>Poltergeist</em> – by the <em>wunderkind</em> Steven Spielberg, a film so effectively pre-sold that distributors were fretting over revenue lost to pirate video well before the British opening, a film that had a Venice Film Festival audience cheering and received a standing ovation in London – <em>E.T.</em> is difficult to get close to. Its popularity tempts sociological and psychological analysis rather than criticism, leaving the film in limbo as merely the supremely efficient instrument of its effect. Immense popular success is not necessarily commensurate with intelligence or profundity and few of the top ten grossers turn up on lists of the ten best films; on the other hand, for any work to tap such a well of enthusiasm is a clear sign that its maker has achieved an insight into a widespread structure of feeling and has known how to exploit it. <em>E.T.</em> is clearly a phenomenon, but how good is it?</p>
+<div id="article-body" class=" mpu">
+<p><em>Close Encounters</em> was a journey towards an epiphany. With its tentatively smiling alien the film appropriated the theme of <em>2001</em>, that out there is a superior guiding intelligence. But for the mystical child floating through the universe at the end of Kubrick’s film Spielberg substituted a freshman induction into a benevolent extraterrestrial college. His new film pursues a related idea and further humanises the alien, now accidentally left behind on Earth: vulnerability and intelligence, fear and sweetness, are central characteristics. <em>E.T.</em> in fact represents a major turning-point in the tradition of Science Fiction films that sees aliens as threats: the scheme pursued through so many versions and derivatives of <em>The War of the Worlds</em> and reaching its apogee in Orson Welles’s broadcast of 1938 – the subject of Hadley Cantril’s contemporary study, <em>The Invasion from Mars: A Study in the Psychology of Panic</em>, just reissued.<a href="#fn-asterisk" id="fn-ref-asterisk">[*]</a> <em>E.T.</em> reverses the more domestic branch of this tradition, however: it converts the paranoid proposition of a 1950s film like <em>I married a monster from Outer Space</em> into <em>I adopted an Alien</em>.</p><p><em>E.T.</em> is first and foremost a children’s film. It contains many of the staples of children’s stories: there is the small boy who becomes the moral and intellectual touchstone of his family in his ability to appreciate where truth and goodness, reside, an appreciation which spreads, through his mediation, to his older brother and younger sister and, finally, his mother. It is, in some senses, a fantasy of maturation. It plays on the child’s dream of omnipotence – the friend who is equipped with superhuman powers, but who remains dependent. And in its domestication of the superficially repellent, <em>E.T.</em> reflects the vogue for the rubber monsters that were popular toys a few years ago, a vogue now undergoing a revival with the international distribution of ETs in various sizes. Yet while the arrival of ET provokes the child of a fatherless family into acting himself as a protective father, the alien also acts as a projection of the contrary fantasy – that of extreme loneliness and vulnerability. Elliott is to some extent shown as the family’s, butt in the early sequence round the triangular dinner table – a shape which facilitates the dynamic interaction of glances – where he is seen, delicately, to be isolated. The match between (E)lliot(T) and ET is neatly stated in their first meeting, the discovery in the undergrowth, where their reciprocal terror establishes a level of identity. This identity is progressively developed, particularly in the central comic episode where the drunkenness of ET, who has unwisely raided the icebox and downed several cans of lager, communicates itself to the boy, who acts out both ET’s impressions, of the pieces of film seen on TV, and ET’s fears – to which Elliott responds in the release of the ET-like frogs. And once the link has been broken it is restored in a new form at the end of the film, when ET places his luminous finger against Elliott’s forehead and says, ‘I will be here,’ an affirmation of the importance of memory and imagination, and a hint that Elliott has now been bequeathed some more than human percipience (the touch on the forehead, evoking the transmission of a divine or regal power, demonstrates the way in which Spielberg employs historically resonant images). Having assumed a paternal role, having acquired wisdom, Elliott can now revert to childhood: for the most humane of the scientists who track ET down, the one who responds to Elliott most sympathetically, is the single outsider present at the farewell scene and is clearly destined to join the family, the materialisation of the father whose lack is so strongly felt.</p><p>It is no coincidence that among the films we see on TV as ET squiffily flicks from channel to channel is a clip (but why in black and white?) from <em>This Island Earth</em>, one of the most poetic and inventive of 1950s sci-fi movies, in which the desperation of the aliens and their finally sympathetic nature are something of a precedent for this film. It is no coincidence either that there is one from <em>The Quiet Man</em>, for Spielberg provides a suburban variant of Ford’s rural sense of family and community. And the clip from Tom and Jerry is also significant. Spielberg has referred in interviews to his love of animation, especially Walt Disney, and his visual imagination is very much a graphic one. In <em>Poltergeist</em>, which Spielberg storyboarded and in which the director, Tobe Hooper, seems to have had a very restricted creative role, the use of animation imagery is extremely potent: the hand that reaches out of the TV to grasp the little girl, the blasted tree that attempts to carry off the small boy, are effects straight from the most Gothick aspects of Disney.</p><p>The TV, however, does not carry a clip from Hitchcock, inevitably another major influence upon Spielberg, particularly in the use of dynamic editing, carefully selected detail, subjective tracking shots, and the device of the forward track combined with the zoom out. For Spielberg, as for Hitchcock, film is more malleable than for most directors. Although Spielberg has a firm sense of the real – one thinks of the ordinary family of <em>Poltergeist</em>, or the scabby close-ups of the threateningly proletarian lorry in <em>Duel</em> – he also has a consistent sense of fantasy and allusion which separates him from directors who set up obviously ‘artificial’ sequences for dramatic clarity. Spielberg’s unrealities are metaphoric rather than dramatic. Thus in <em>Duel</em>, where the lorry turns back to attack the car-driver, its attack is registered in, and displaced into, the overturned cages and panic-stricken animals and reptiles of the desert zoo. Similarly here, ET’s vain flight back to his space-ship is that of an animal to its burrow, and this sequence, which children find the most terrifying in the film, is perhaps the most brilliant. ET’s fascinated wandering through the woods is treated in tracking shots following the only partially perceived alien: partially perceived because Spielberg does not want his later appearance to come as too great a shock to the children in his audience, but also because we are encouraged to participate in his sense of wonder and not to wonder at him. This is reinforced by intercut subjective shots: tilts upward at giant trees, forward tracks through the bushes. And a close-up of a rabbit, to mirror the non-human timorousness of ET and to stress his harmlessness. Then disruption. The arrival of the cars, seen from ET’s own eye-level, lining up rapidly in an ominous phalanx which unfolds in a swift lateral track. And the men bounding out, the beams of their torches swinging like scythes. ET’s terrified attempt to regain the ship, emitting animal squeaks, is cross-cut with shots of his pursuers, reduced either to dehumanised silhouettes, or segmented into big close-ups of hands and boots and, particularly, a sheriff’s badge clanking against keys hung from a belt, its noise amplified to express ET’s terror. The sequence is one of the most affecting scenes of flight since the escape from the forest fire in <em>Bambi</em>, and a textbook instance of the efficacy of montage to fragment the habitual continuity of our responses – as Hitchcock did supremely in the shower-bath sequence in <em>Psycho</em>.</p><p>Spielberg frames the film with the arrival and departure of the space-ship, a warm creation, coming down the second time looking like a giant version of the halloween masks that occur frequently throughout the film. But the link only emphasises the comparative loss of thematic control, and the declining visual inventiveness, of the later parts of the film. The frenetic comedy sequence in the school is no better than the comedy of <em>1941</em>, though its pace is to some extent justified by the style of the Tom and Jerry cartoon that ET inadvertently projects into Elliott. And when Spielberg seeks emotional profundity, he resorts to mere presentation rather than evocation. Thus Elliott’s speech over the dry-ice coffin in which the dead ET lies is a mawkishly protracted and static kiddy-pietà where the main stress is on tearful close-ups, and where Spielberg is compelled to cut to a shot of Elliott framed in the oval window of the raised coffin lid to bring out his renewed isolation and to keep some visual interest alive. The sudden resurrection of ET, explained by the proximity of the returning spaceship, represents a missed opportunity to exploit the closeness of communication between Elliott and ET. During ET’s decline, Elliott has followed a similar trajectory, and it is only when ET releases him, a sacrifice that hastens his own collapse, that Elliott recovers. Since ET has power on Earth only when it is projected through or for others, this would have been an ideal opportunity for a reversal, a stress on earthly powers, a resurrection of ET through childish belief, as in <em>Peter Pan</em> or <em>Ordet</em>. As it is, neither the script nor the shooting of this sequence draw on the dividends accumulated in the earlier parts of the film.</p><p>The sense of strain is felt most clearly in the closing sequence. Spielberg obviously hoped to achieve an <em>andante</em> movement in contrast to the <em>prestissimo</em> that dominated the opening. But the resulting series of images is like a row of half-length, moist-eyed saints, arranged in a display of the results of a competition for a <em>tête d’expression</em>. It shows a lack of imagination reminiscent of the final tired shots of <em>Cheyenne Autumn</em>, with its similarly ponderous invocation of home. The director has been overwhelmed by reverence for his own material, and has fallen into the trap of believing that simple presentation is sufficient. But long close-ups demand either the most subtle control of facial expression from actors – as in Bergman – or a compositional inventiveness which can find an independent but related formal interest in the image. Spielberg is compelled to make use of a soundtrack as domineering as that in a Preminger film to wind his audience to the required emotional pitch. Static close-ups are out of place within Spielberg’s visual style and betray his best qualities: his unusually precise awareness of where to end a sequence to produce in his audience an expectation for the next; his crisply handled overlapping of sound and image in group sequences; his flair for allusiveness within the image. <em>E.T.</em> works marvellously on a first viewing, but the weaknesses will tell more strongly on re-runs.</p><p>It is surprising that the final sequence should be so unsatisfactory since it takes place in darkness and offers Spielberg an opportunity to exercise his greatest skill, the deployment of light. Although by no means solely a ‘night’ director, the most memorable scenes in his more recent films have employed darkness to set off a light show. Thus even in <em>1941</em>, Spielberg’s only flop, the ferris wheel rolling down the pier, and the grid of lights of a city seen night (a motif also used in <em>E.T.</em>) from the low-flying fighter, remain memorable. And the little space-ships soaring over Richard Dreyfus’s car in <em>Close Encounters</em> are like animated Gabos – interesting since it was precisely Gabo who conceived of light sculptures in the early 1920s. In <em>1941</em> and in <em>Close Encounters</em> skeletal structures and open forms tend to predominate. In <em>Poltergeist</em> and <em>E.T.</em> the stress is more on patches of light, distributed around the screen to anchor our attention to specific areas within the frame. Spielberg is as well aware as the designers of Benson and Hedges advertisements of the emotional value of a warmly lit house at night. This is a repeated effect in <em>Poltergeist</em>, and it occurs in <em>E.T.</em> as well, but in the former it was used to make the destruction of the house all the more apocalyptic. In <em>E.T.</em> the invasion of the house by the faceless scientists is restrained, and there is no destruction, only the swathing of the house in polythene, like a Christo. And in <em>E.T.</em> the use of colour is much more muted – the mouth of hell in <em>Poltergeist</em> gapes like a giant jellyfish, all undulating membranes and saturated colours. In <em>E.T.</em> Spielberg rarely deploys a rich range of colours: one of the few instances is the use of the round closet window filled with stained glass which hovers above the children’s head as they bend over the alien like the shepherds over the crib.</p><p>The two scenes where Elliott goes to the garden shed are among the most striking in the film. Done in long shot and with a planar arrangement of the porch and shed, the scenes have a sacramental feel, like the discovery of the grail or the manger, which would be entirely lost were they more conventionally dramatised. The distribution of lights – the glowing shed contrasted with the weaker porchlight – itself actualises Elliott’s passage from one realm of consciousness to another, under the auspices of the crescent moon. But poetry gradually fades, and the ending, with the protracted farewells and the departing ship, contrasts sharply with the beginning. There the circular space-ship, luminous and numinous, placed in the dark wood, is photographed by the camera tracking round it – but not continuously. One shot fades into another at points where breaks can be minimised, behind screens of trees.</p><p>The reason for this is probably that the space-ship set was not built in the round and that Spielberg was compelled to splice together shots of the same segment to achieve an illusion of completeness. But the actual effect is subtly to dislocate the viewer’s sense of space and time, a blurring of perception which registers the magnitude of the event, an equivalent, on a more grandiose level, to the shaking camera that records the first kiss in <em>Rear Window</em>. Spielberg’s visual inventiveness in much of <em>E.T.</em> is of sufficiently high quality to make one regret those passages where he falls below his best.</p> </div>
+
+
+
+<div class="print-hide"><div id="tp-article-footer"></div></div>
+
+
+<div id="footnotes" class="article-note">
+<p><a href="#fn-ref-asterisk" id="fn-asterisk">[*]</a> Princeton University Press, 224 pp., £16.25 and £4.85, 28 December 1982, 0 691 09399 7.</p></div>
+
+
+<div class="print-show">
+<div class="hr"><hr /></div>
+<p><a href="/v05/n01/contents">Vol. 5 No. 1 · 10 January 1983</a> » <a href="/contributors/paul-joannides" rel="author">Paul Joannides</a> » <a href="/v05/n01/paul-joannides/luminous-numinous">Luminous/Numinous</a><br />
+page 16 | 2621 words</p>
+</div>
+
+</div>
+
+<div class="print-hide">
+<div class="hr"></div><hr />
+<div class="indent">
+<p><a href="/contacts">Contact us</a> for rights and issues inquiries.</p>
+<ul class="article-controls bottom clearfix"></ul>
+</div>
+</div>
+
+
+<div class="print-hide">
+<ul class="more clearfix">
+<li><a href="/v05/n01/contents">More from this issue</a> »</li>
+<li class="last"></li>
+</ul>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var share=share||[];share.push({type:"film review",author:"Paul%20Joannides%20in%20the%20%23LRB%3A",title:"LRB%20%C2%B7%20Paul%20Joannides%20%C2%B7%20Luminous%2FNuminous",url:"https%3A%2F%2Fwww.lrb.co.uk%2Fv05%2Fn01%2Fpaul-joannides%2Fluminous-numinous",aliases:[]});
+var _lrbq=_lrbq||[];_lrbq.push(function(){$(function(){$("ul.article-controls").prepend('<li><a class="icon print" title="printer-friendly version of this '+share[0].type+'">print<span class="icon print"></span></a></li>'),$("a.icon.print").click(function(){for(var e,t=0;e=document.getElementsByTagName("link")[t];t+=1)"stylesheet"==e.getAttribute("rel")&&(e.href=e.href.replace(/style-screen/,"style-print"));try{ga("send","pageview","/print")}catch(e){}return!1}),$("#nav-global").append('<ul class="navbar print-show"><li></li></ul>'),$("#nav-user").append('<div class="right-align homepage print-show"><a class="back" href="">Back to article page</a></div>'),$("#nav-user a.back").click(function(){for(var e,t=0;e=document.getElementsByTagName("link")[t];t+=1)"stylesheet"==e.getAttribute("rel")&&(e.href=e.href.replace(/style-print/,"style-screen"));return!1});var e={cite:"cite this "+share[0].type,letter:"letter to the editors",email:"email a link to this "+share[0].type};for(var t in e)$("ul.article-controls").prepend('<li><a class="icon '+t+'" title="'+e[t]+("cite"!==t?'" href="mailto:'+("letter"===t?"edit@lrb.co.uk":"")+"?subject="+share[0].title+("email"===t?"&amp;body="+share[0].url:""):"")+'">'+t+'<span class="icon '+t+'"></span></a></li>'),$("a.icon."+t).bind("click",{icon:t},function(e){"cite"===e.data.icon&&$.get(location.protocol+"//"+location.host+"/"+e.data.icon+"?xhr="+url_encode(location.pathname+location.search+location.hash));try{ga("send","pageview","/"+e.data.icon)}catch(e){}});"www.lrb.co.uk"==location.host&&($("ul.article-controls").prepend('<li><a class="icon twitter" title="share this '+share[0].type+' on twitter">twitter <span class="icon twitter"></span></a></li>'),$("a.icon.twitter").click(function(){var e=screen.height,t=Math.round(screen.width/2-275),a=0;e>450&&(a=Math.round(e/2-225)),window.open("https://twitter.com/share?text="+share[0].author+"&url="+share[0].url+"&via=LRB","","left="+t+",top="+a+",width=550,height=450,personalbar=0,toolbar=0,scrollbars=1,resizable=1");try{ga("send","social","Twitter","Share",share[0].url)}catch(e){}return!1}),$("ul.article-controls").prepend('<li><a class="icon facebook" title="share this '+share[0].type+' on facebook">facebook <span class="icon facebook"></span></a></li>'),$("a.icon.facebook").click(function(){var e=screen.height,t=Math.round(screen.width/2-380),a=0;e>450&&(a=Math.round(e/2-225)),window.open("https://www.facebook.com/sharer.php?t="+share[0].title+"&u="+share[0].url,"","left="+t+",top="+a+",width=760,height=450,personalbar=0,toolbar=0,scrollbars=1,resizable=1");try{ga("send","social","Facebook","Share",share[0].url)}catch(e){}return!1}))})});
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var OA_host=OA_host||"https:\/\/rev.lrb.co.uk",OA_mpus=[["a88d2acd",7],["a43edb40",55]];
+//]]>
+</script>
+
+<!--[if gt IE 7]><!-->
+<script type="text/javascript">
+//<![CDATA[
+var _lrbq=_lrbq||[];_lrbq.push(function(){$(function(){$('#main a[href^="#fn-"]').not('a[href^="#fn-ref-"]').each(function(){$(this).clone().removeAttr("id").addClass("fnx-link print-hide").text("​").css({font:'.8em/1 "Helvetica Neue",Helvetica,Arial,sans-serif',"text-decoration":"none"}).append('<span style="position:relative;top:-.2em;margin:0 .2em;border-radius:1em;padding:0 1em;'+"background:#7aaecc;"+"background:-moz-linear-gradient(top,#c7ddea 0%,#7aaecc 100%);"+"background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#c7ddea ),color-stop(100%,#7aaecc));"+"background:-webkit-linear-gradient(top,#c7ddea 0%,#7aaecc 100%);"+"background:-o-linear-gradient(top,#c7ddea 0%,#7aaecc 100%);"+"background:-ms-linear-gradient(top,#c7ddea 0%,#7aaecc 100%);"+"background:linear-gradient(to bottom,#c7ddea 0%,#7aaecc 100%);"+"filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#c7ddea',endColorstr='#7aaecc',GradientType=0);"+'color:#fff;white-space:nowrap">'+$(this).text().replace(/\*/,"＊").replace(/^\[|\]$/g,"")+"</span>").click(function(){var t=$(this),e=t.attr("href").replace(/^[^#]*#/,""),i=$("#fnx-print"),r=$("#fnx-upper"),o=$("#fnx-panel"),a=$("#fnx-lower");var n=function(){r.remove();o.remove();a.remove();i.removeClass("print-show").removeAttr("id").unwrap()};if(o.length&&o.hasClass(e)){o.animate({height:0},250,n)}else{if(o.length){var s=t.offset().top>o.offset().top?o.outerHeight(true):0;n();s&&$("document, html, body").scrollTop($(window).scrollTop()-s)}for(i=$('a[href="#'+e+'"].fnx-link');i.css("display")!="block";i=i.parent()){}i.attr("id","fnx-print").addClass("print-show").wrap('<div style="position:relative" />');r=i.clone(true).removeAttr("id").find("[id]").each(function(){$(this).removeAttr("id")}).end().removeClass("print-show").find(".print-show").remove().end().wrap('<div id="fnx-upper" class="print-hide" style="height:auto;overflow:hidden" />').parent().insertAfter(i);o=r.after('<div id="fnx-panel" class="'+e+' indent print-hide" '+'style="position:relative;margin-bottom:5px;box-shadow:2px 2px 5px #ddd;overflow:hidden;visibility:hidden"/>').next();a=r.clone(true).children().unwrap().wrapAll('<div id="fnx-lower" class="print-hide" style="height:auto;overflow:hidden"><div /></div>').parent().parent().insertAfter(o);t=$('#fnx-upper a[href="#'+e+'"].fnx-link');t.css("vertical-align","bottom");var d=t.position().top+t.outerHeight(true)+1;t.css("vertical-align","baseline");var p=o.append('<div style="padding:1em 1em 0.1em;background-color:#c7ddea ;color:#000"/>').children();for(var h=$('a[id="'+e+'"]');!h.hasClass("print-show");h=h.parent()){}p.append(h.clone().removeClass("print-show"));p.find('a[href^="#fn-"]').remove();p.find("img").filter(function(){return $(this).width()>p.width()}).removeAttr("width").removeAttr("height").css("max-width","100%");p.find('div[id^="vjs_video_"]').each(function(){var t=JSON.parse(this.dataset.setup);if(typeof videojs==="function"&&t){var e=document.createElement("source");e.src=t["lrb-src"];e.type=t["lrb-type"];var i=document.createElement("video");i.className="video-js vjs-big-play-centered vjs-fluid";i.width=p.width();i.height=Math.round((+t.height&&+t.width?+t.height/+t.width:.5625)*p.width());i.poster=t.poster;i.setAttribute("controls",true);i.setAttribute("preload","none");i.setAttribute("crossorigin","anonymous");i.dataset.setup=JSON.stringify({width:i.width,height:i.height,poster:i.poster,controls:true,preload:i.getAttribute("preload"),aspectRatio:i.width+":"+i.height,"lrb-src":e.src,"lrb-type":e.type});i.appendChild(e);this.parentNode.replaceChild(i,this);videojs(i)}});var l=o.outerHeight(true),c=o.width(),f=o.height(),u=p.outerWidth(),g=p.outerHeight();p.css({width:p.width()});r.css({height:d});a.css({height:a.height()-d}).children().first().css({"margin-top":-d});o.css({position:"absolute",top:r.position().top+t.position().top+Math.round(t.height()/2),left:r.position().left+t.position().left,width:0,height:0,visibility:"visible"});o.animate({top:r.position().top+d,left:r.position().left,width:u,height:g},{duration:500,queue:true});a.animate({"margin-top":l},{duration:500,complete:function(){o.css({display:"",position:"static",width:"auto",height:"auto"});p.css({width:"auto",height:"auto"});a.css({"margin-top":0})}})}return false}).insertAfter($(this));$(this).addClass("print-show");var t=$('a[id="'+$(this).attr("href").replace(/^[^#]*#/,"")+'"]').parent();if(!t.parent().attr("id")||t.parent().attr("id")!="footnotes")t=t.parent();t.addClass("print-show")})})});
+//]]>
+</script>
+<!--<![endif]-->
+<script>
+var _lrbq=_lrbq||[];_lrbq.push(function(){$("a.lightbox").length&&($("link:first").parent().append('<link rel="stylesheet" href="https://cdn.lrb.co.uk/assets/javascript/nivo-lightbox/lrb-lightbox.1522338345.css" type="text/css" />'),$("script:first").parent().append('<script type="text/javascript" src="https://cdn.lrb.co.uk/assets/javascript/nivo-lightbox/lrb-lightbox.1552994303.js" crossorigin="anonymous" />'))});
+</script>
+</div><!-- #main -->
+
+
+<div id="banner">
+<div id="OA_a4d6a88b" class="revive-banner print-hide">
+<script type="text/javascript">var OA_host=OA_host||"https:\/\/rev.lrb.co.uk",OA_zones=OA_zones||[];OA_zones.push('OA_a4d6a88b=3');</script>
+</div>
+<div id="OA_aa26b6f0" class="revive-banner print-hide">
+<script type="text/javascript">var OA_host=OA_host||"https:\/\/rev.lrb.co.uk",OA_zones=OA_zones||[];OA_zones.push('OA_aa26b6f0=4');</script>
+</div>
+</div><!-- #banner -->
+
+</div><!-- #bodycontent -->
+
+<!-- footer starts -->
+<div id="footer" class="clearfix">
+<ul class="print-hide">
+<li><a href="/">Current Issue</a></li>
+<li><a href="/blog/">Blog</a></li>
+<li><a href="/archive">Archive</a></li>
+<li><a href="/audio-and-video">Audio and Video</a></li>
+<li><a href="/search">Search</a></li>
+</ul>
+<ul class="print-hide">
+<li><a href="/about">About</a></li>
+<li><a href="/terms">Terms and Conditions</a></li>
+<li><a href="/copyright">Copyright</a></li>
+<li><a href="/privacy">Privacy</a></li>
+<li><a href="/accessibility">Accessibility</a></li>
+</ul>
+<ul class="print-hide">
+<li><a href="/subscribe">Subscribe</a></li>
+<li><a href="/contacts">Contact</a></li>
+<li><a href="/newsletter">Newsletters</a></li>
+<li><a href="/subscribe/faq">FAQs</a></li>
+<li><a href="/librarian">Librarians</a></li>
+</ul>
+<ul class="print-hide">
+<li><a href="#pagetop" accesskey="T" onclick="document.body.scrollTop=document.documentElement.scrollTop=0">Back to the top</a></li>
+<li class="follow">Follow the LRB<br />
+<a href="https://www.facebook.com/LondonReviewOfBooks"><img src="https://cdn.lrb.co.uk/assets/sm-icons/footer/facebook.svg" width="32" alt="Facebook" onerror="this.onerror=null; this.src='/assets/sm-icons/footer/facebook.png'" /></a>
+<a href="https://twitter.com/lrb"><img src="https://cdn.lrb.co.uk/assets/sm-icons/footer/twitter.svg" width="32" alt="Twitter" onerror="this.onerror=null; this.src='/assets/sm-icons/footer/twitter.png'" /></a>
+<a href="https://plus.google.com/+londonreviewofbooks"><img src="https://cdn.lrb.co.uk/assets/sm-icons/footer/google-plus.svg" width="32" alt="Google Plus" onerror="this.onerror=null; this.src='/assets/sm-icons/footer/google-plus.png'" /></a>
+</li>
+</ul>
+<ul class="print-hide">
+<li>© LRB Limited 2019</li>
+<li>ISSN 0260-9592</li>
+<li><a href="/feedbackform">Send Us Feedback</a></li>
+<li class="mobile"><a href="" onclick="try{window.cookie.set('lrb-source',window.cookie.get('lrb-source').replace(/\/MOBILE/,'')+'/MOBILE',window.cookie.days(365),'/');window.location.reload(!0);return !1}catch(e){}">Mobile website</a></li>
+</ul>
+<p class="print-show">ISSN 0260-9592 <a href="/copyright">Copyright</a> © LRB Limited 2019</p>
+<p class="print-show right-align">^ <a href="#pagetop" accesskey="T" onclick="document.body.scrollTop=document.documentElement.scrollTop=0">Top</a></p>
+</div>
+<div class="print-hide"><div id="tp-footer"></div></div>
+<script>var _lrbq=_lrbq||[];_lrbq.push(function(){$("#footer a").on("click",function(){try{ga("send","event","Footer","Click",$(this).text().trim())}catch(e){}});});</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.lrb.co.uk","logo":"https://cdn.lrb.co.uk/assets/images/lrb-organization-logo.svg","contactPoint":[{"@type":"ContactPoint","telephone":"+44 1604 828700","contactType":"customer service"},{"@type":"ContactPoint","telephone":"+1 800 258 2066","contactType":"customer service","areaServed":["US","CA"]}],"sameAs":["https://en.wikipedia.org/wiki/London_Review_of_Books","https://twitter.com/lrb","https://www.facebook.com/LondonReviewOfBooks","https://www.youtube.com/user/LondonReviewofBooks","https://plus.google.com/+londonreviewofbooks","https://www.pinterest.com/lrbooks/","https://itunes.apple.com/gb/podcast/london-review-podcasts/id510327102?mt=2","https://flipboard.com/@londonreview"]}</script>
+<!-- footer ends -->
+
+</div><!-- #wrapper -->
+
+<!-- foot starts -->
+<script type="text/javascript">function scriptLoad(p){var s=document.createElement("script");s.type="text/javascript";s.async=true;if(typeof p=="object")for(var i in p)s[i]=p[i];else s.src=p;document.getElementsByTagName("script")[0].parentNode.appendChild(s)};</script>
+<!--[if IE 6]><script type="text/javascript">var _lrbq=_lrbq||[];_lrbq.push(function(){$(function(){scriptLoad("https://cdn.lrb.co.uk/assets/javascript/bgiframe.1256821655.js")})});</script><![endif]-->
+<script type="text/javascript">scriptLoad({src:"https://cdn.lrb.co.uk/assets/javascript/lrb.js",crossOrigin:"anonymous"});</script>
+<script type="text/javascript">
+//<![CDATA[
+try{ga.q.reduce(function(e,n){return e||"send"===n[0]&&"pageview"===n[1]},!1)||ga("send","pageview")}catch(e){}window.onerror=function(e,n,t,c,i){try{ga("send","exception",{exDescription:e+" in "+n+" on line "+t+" column "+c+": "+JSON.stringify(i)})}catch(e){}},function(){function e(e){document.cookie="__adblocker="+e+"; expires="+function(e,n){return e.setTime(e.getTime()+864e5*n),e.toUTCString()}(new Date,28)+"; path=/"}try{ga(function(){e("false")})}catch(e){}window.tp=window.tp||[],tp.push(["init",function(){var n=(n=document.cookie.match(RegExp("(?:^|;)\\s*__adblocker\\s*=\\s*([^;\\s]+)\\s*(?:;|$)")))?n[1]:null;n?"null"===n&&e("true"):e("null")}])}(),function(){var e=document.getElementsByTagName("script")[0],n=document.createElement("script");n.src="https://www.google-analytics.com/analytics.js",n.async=!0,e.parentNode.insertBefore(n,e)}();
+//]]>
+</script>
+<script type="text/javascript">
+    // Merge the default tp array with the array constructed above or empty
+    // Set tp_data =JSON_OBJECT of article id and type
+    var tp=[["setAid","NsZ8w1B42e"]].concat(tp||[],[["setTags",["type_film_review","access_full"]]]),tp_data={"article_id":"joan01_0501","article_type_text":"film review"};
+    // Call script load function to load the piano js file
+    scriptLoad("https://cdn.tinypass.com/api/tinypass.min.js");
+    // Initiate _lrbq
+    var _lrbq=_lrbq||[];
+    _lrbq.push(function(){
+        tp_data.country_code=window.OA_lrb&&window.OA_lrb.country||"O1";
+        if(window.OA_segment)tp.push(["setCustomVariable","UserSegment",OA_segment.substring(0,5)],["setCustomVariable","UserSegmentPW",OA_segment.substring(0,5)],["setCustomVariable","UserArea",OA_segment.substring(5,7)]);
+        if(window.OA_segment_pw)tp.push(["setCustomVariable","UserSegmentPW",OA_segment_pw]);
+        tp.push(["init",function(){tp.experience.init()}]);
+    });
+</script>
+<script type="text/javascript">(function(e,a,i,c,t,m,r){if(!e[t]){e.GlobalAamNamespace=e.GlobalAamNamespace||[];e.GlobalAamNamespace.push(t);e[t]=function(){(e[t].q=e[t].q||[]).push(arguments)};e[t].q=e[t].q||[];m=a.createElement(i);r=a.getElementsByTagName(i)[0];m.async=1;m.src=c;r.parentNode.insertBefore(m,r)}})(window,document,"script","//aamcftag.aamsitecertifier.com/aam.js","aamsitecertifier");window.aamsitecertifier("newTracker","cf","aamcf.aamsitecertifier.com",{idWeb:"298"});window.aamsitecertifier("trackPageView")</script>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-3620078865723740"});scriptLoad("https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js")</script>
+<script type="text/javascript">
+//<![CDATA[
+!function(e){if(0!=e.referrer.indexOf(location.protocol+"//"+location.hostname)&&e.cookie.search(/(?:^|;\s*)lrb-cookies(?:[=;]|$)/)==-1){var t=e.getElementById("wrapper"),o=e.createElement("div");o.innerHTML='<div style="border-bottom:1px solid #adadad;padding:5px;background:#f4f4f4;color:#333;font:1em/1 sans-serif"><span style="float:right;margin-top:-.3em;color:#666;font:1.5em sans-serif;cursor:pointer" title="Close">×</span> This site uses cookies. By continuing to browse this site you are agreeing to our use of cookies. (<a title="Privacy Policy" href="/privacy">More Information</a>)</div>',t.insertBefore(o,t.firstChild);var n=function(t){t=t||event,o.style.display="none",e.cookie="lrb-cookies=; expires="+new Date((new Date).getTime()+31536e6).toGMTString()+"; path=/",ga&&ga("send","event","Cookies","Closed"),t.preventDefault&&t.preventDefault(),t.returnValue=!1},i=o.getElementsByTagName("span")[0];i.addEventListener?i.addEventListener("click",n,!1):i.attachEvent&&i.attachEvent("onclick",n)}}(document);
+//]]>
+</script>
+<!-- foot ends -->
+
+</body>
+</html>

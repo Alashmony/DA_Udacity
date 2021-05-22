@@ -1,0 +1,44 @@
+plt scatter
+https://matplotlib.org/api/_as_gen/matplotlib.pyplot.scatter.html
+
+sb regplot
+https://seaborn.pydata.org/generated/seaborn.regplot.html
+
+hist2d (heatmap):
+https://matplotlib.org/api/_as_gen/matplotlib.pyplot.hist2d.html
+
+colorbar:
+https://matplotlib.org/api/_as_gen/matplotlib.pyplot.colorbar.html
+
+cmap (colors for heatmap):
+https://matplotlib.org/api/pyplot_summary.html#colors-in-matplotlib
+
+sb Violinplot:
+https://seaborn.pydata.org/generated/seaborn.violinplot.html
+
+sb boxplot:
+https://seaborn.pydata.org/generated/seaborn.boxplot.html
+
+pd categorialdtype:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/categorical.html
+
+pandas.api.types.CategoricalDtype:
+https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.api.types.CategoricalDtype.html
+
+barplot:
+https://seaborn.pydata.org/generated/seaborn.barplot.html
+
+pandas cut:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.cut.html
+
+Pointplot:
+https://seaborn.pydata.org/generated/seaborn.pointplot.html
+
+error plot:
+https://matplotlib.org/api/_as_gen/matplotlib.pyplot.errorbar.html
+
+Pandas rolling:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rolling.html
+
+
+

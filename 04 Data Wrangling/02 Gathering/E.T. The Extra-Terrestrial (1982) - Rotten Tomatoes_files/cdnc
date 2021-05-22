@@ -1,0 +1,692 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Desert Sun 17 June 1982 &mdash; California Digital Newspaper Collection</title>
+
+    <meta charset="UTF-8" />
+    <meta name="veridian-license" content="XXXXX-XXXXX-1FCL5-HFR5G" />
+    <meta name="veridian-version" content="CVS-D2018.10.18.01.00.00" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    
+
+    
+<link href="/web/favicon.ico?lmd=1422826348" rel="icon" />
+<link href="/web/favicon.ico?lmd=1422826348" rel="shortcut icon" />
+
+
+    
+    <!-- Bootstrap CSS -->
+    <link href="/web/style/bootstrap.min.css?lmd=1507796743" rel="stylesheet" type="text/css" />
+
+    <!-- Core Veridian CSS -->
+    <link href="/web/style/veridian.css?lmd=1539826238" rel="stylesheet" type="text/css" />
+
+    
+      <!-- jsSocials CSS files -->
+      <link href="/web/style/font-awesome.min.css?lmd=1532571603" rel="stylesheet" type="text/css"/>
+      <link href="/web/style/jssocials.min.css?lmd=1536104872" rel="stylesheet" type="text/css"/>
+      <link href="/web/style/jssocials-theme-flat.min.css?lmd=1536104872" rel="stylesheet" type="text/css"/>
+
+    <!-- CDNC CSS -->
+    <link href="/custom/cdnc/web/style/cdnc.css?lmd=1539826805" rel="stylesheet" type="text/css" />
+
+    
+
+<link href="/web/style/panojs.css?lmd=1537148190" rel="stylesheet" type="text/css" />
+
+
+<!-- Inline CSS, to use macros -->
+<style>
+  
+</style>
+
+
+    
+    <!-- JQuery -->
+    <script src="/web/script/jquery/jquery-1.11.3.min.js"></script>
+
+    <!-- Bootstrap -->
+    <script src="/web/script/bootstrap/popper-1.12.3.min.js"></script>
+    <script src="/web/script/bootstrap/bootstrap.min.js?lmd=1503393377"></script>
+
+    <!-- Miscellaneous helper scripts -->
+    <script src="/web/script/cooquery.js?lmd=1435547759"></script>
+    <script src="/web/script/EventUtils.js?lmd=1316993927"></script>
+
+    <!-- Core Veridian Javascript -->
+    <script src="/web/script/veridian-core.js?lmd=1537401422"></script>
+
+    <!-- Core Veridian Javascript values -->
+    <script>
+      // <![CDATA[
+
+      var cgiArgD = 'DS19820617.2.111';
+      var cgiArgSrpos = '';
+
+      var debug = false;
+
+      var httpDomain = 'cdnc.ucr.edu';
+      var httpVeridian = '/';
+      var state = 'e=-------en--20--1--txt-txIN--------1';
+
+      var loadingString = 'Loading...';
+      var saveString = 'Save';
+      var savedString = 'Saved';
+      var savingString = 'Saving...';
+      var systemErrorString = 'A system error has occurred; please contact the site maintainer (<a href="mailto:cdnc-technical@cbsr.ucr.edu">cdnc-technical@cbsr.ucr.edu<\/a>).';
+      var unsavedChangesString = 'There are unsaved changes that will be lost if you continue.';
+
+      var socialBookmarks = 'enabled';
+
+      // ]]>
+    </script>
+
+    <!-- Veridian user contribution/editable/account Javascript, if any of the user-specific features are enabled -->
+    
+      <script src="/web/script/veridian-usercontribution.js?lmd=1537401422"></script>
+      <script src="/web/script/veridian-usereditable.js?lmd=1537401422"></script>
+      
+<script src="/custom/cdnc/web/script/veridian-useraccount.js?lmd=1538950796"></script>
+
+
+    
+
+    
+    
+
+    
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11669086-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-11669086-1');
+</script>
+
+  </head>
+
+  <body>
+    <div class="skiplink"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a></div>
+
+
+  <header id="header">
+    <div id="headertopcell" class="commonedging">
+      
+<div id="navbarcollapsed" class="dropdown hiddenwhennotsmall">
+  <a class="dropdown-toggle" data-toggle="dropdown" href="#dd" role="button" aria-haspopup="true" aria-expanded="false" title="Navigation menu"><svg class="svgicon touchclickable" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mi-menu" role="img"><title id="mi-menu">Navigation menu</title><path d="M0 0h24v24H0z" fill="none"/><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg></a>
+  <nav class="dropdown-menu">
+    
+  <a class="dropdown-item " href="/?a=p&amp;p=home&amp;e=-------en--20--1--txt-txIN--------1">Home</a>
+  <a class="dropdown-item " href="/?a=q&amp;e=-------en--20--1--txt-txIN--------1">Search</a>
+  <a class="dropdown-item " href="/?a=cl&amp;cl=CL1&amp;e=-------en--20--1--txt-txIN--------1">Titles</a>
+  <a class="dropdown-item " href="/?a=cl&amp;cl=CL2&amp;e=-------en--20--1--txt-txIN--------1">Dates</a>
+  <a class="dropdown-item " href="/?a=cl&amp;cl=Tags&amp;e=-------en--20--1--txt-txIN--------1">Tags</a>
+  <!-- CDNC CUSTOMISATION: New Counties browser -->
+  <a class="dropdown-item " href="/?a=p&amp;p=regionbrowser&amp;e=-------en--20--1--txt-txIN--------1">Counties</a>
+  <a class="helplink dropdown-item " href="/?a=p&amp;p=help&amp;e=-------en--20--1--txt-txIN--------1#all">Help</a>
+  <!-- CDNC CUSTOMISATION: New About link -->
+  <a class="dropdown-item" href="https://cdnc.ucr.edu/site/about_us.html">About</a>
+
+  </nav>
+</div>
+
+      <div>
+
+  <div id="userlinks" class="dropdown hidden-print">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#dd" role="button" aria-haspopup="true" aria-expanded="false" title="User account menu (not logged in)"><svg class="svgicon touchclickable" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mi-person" role="img"><title id="mi-person">User account menu (not logged in)</title><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg></a>
+    <div class="dropdown-menu dropdown-menu-right">
+      
+        <a class="dropdown-item registerlink" href="/?a=ur&amp;command=ShowRegisterNewUserPage&amp;opa=a%3dd%26d%3dDS19820617.2.111&amp;e=-------en--20--1--txt-txIN--------1">Register</a>
+        <a class="dropdown-item loginlink" href="/?a=a&amp;command=ShowAuthenticateUserPage&amp;opa=a%3dd%26d%3dDS19820617.2.111&amp;e=-------en--20--1--txt-txIN--------1">Log in</a>
+    </div>
+  </div>
+</div>
+      <div>
+
+</div>
+    </div>
+    <div id="headerbottomcell">
+      <div id="bannerlogo" class="hiddenwhensmall offsetbannerlogo"><img id="cdncbannerlogoonecdnc" alt="California Digital Newspaper Collection" src="/custom/cdnc/web/images/UCR_CDNC.png" title="California Digital Newspaper Collection" /><img id="cdncbannerlogoonecbsr" alt="California Digital Newspaper Collection" src="/custom/cdnc/web/images/UCR_CBSR.png" title="California Digital Newspaper Collection" /></div><div id="cdncbannerlogotwo" class="hiddenwhensmall offsetbannerlogo"><img alt="California Digital Newspaper Collection" src="/custom/cdnc/web/images/CDNC_CDNC.png" title="California Digital Newspaper Collection" /></div>
+      
+<div id="navbar" class="hidden-print hiddenwhensmall">
+  <nav>
+    
+<ul id="navbarentries" class="nav">
+  <li class="nav-item"><a class="nav-link " href="/?a=q&amp;e=-------en--20--1--txt-txIN--------1">Search</a></li>
+  
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#dd" role="button" aria-haspopup="true" aria-expanded="false">Browse</a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item " href="/?a=cl&amp;cl=CL1&amp;e=-------en--20--1--txt-txIN--------1">Titles</a>
+        <a class="dropdown-item " href="/?a=cl&amp;cl=CL2&amp;e=-------en--20--1--txt-txIN--------1">Dates</a>
+        <a class="dropdown-item " href="/?a=cl&amp;cl=Tags&amp;e=-------en--20--1--txt-txIN--------1">Tags</a>
+        <!-- CDNC CUSTOMISATION: New Counties browser -->
+        <a class="dropdown-item " href="/?a=p&amp;p=regionbrowser&amp;e=-------en--20--1--txt-txIN--------1">Counties</a>
+      </div>
+    </li>
+  <li class="nav-item"><a class="helplink nav-link " href="/?a=p&amp;p=help&amp;e=-------en--20--1--txt-txIN--------1#all">Help</a></li>
+  <!-- CDNC CUSTOMISATION: New About link -->
+  <li class="nav-item"><a class="nav-link" href="https://cdnc.ucr.edu/site/about_us.html">About</a></li>
+</ul>
+
+  </nav>
+</div>
+
+    </div>
+    <nav id="breadcrumbscell" class="hidden-print hiddenwhensmall">
+<ol class="breadcrumb commonedging"><li class="breadcrumb-item"><a href="/?a=p&amp;p=home&amp;e=-------en--20--1--txt-txIN--------1" title="California Digital Newspaper Collection"><svg class="svgicon" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mi-home" role="img"><title id="mi-home">California Digital Newspaper Collection</title><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/><path d="M0 0h24v24H0z" fill="none"/></svg></a></li>
+
+  <li class="breadcrumb-item"><a href="/?a=cl&amp;cl=CL1&amp;sp=DS&amp;e=-------en--20--1--txt-txIN--------1">Desert Sun</a></li><li class="breadcrumb-item"> 17 June 1982</li>
+</ol>
+</nav>
+  </header>
+  <div id="content">
+
+
+
+<div class="widthrestrictionnone">
+
+<div id="pagecontent">
+  <div id="documentdisplayheader" class="commonedging"><h1>Desert Sun&#44; Number 271&#44; 17 June 1982</h1> <div><div class="documentstaticpdflinkcontainer"><a class="pdflink" href="/?a=is&amp;oid=DS19820617&amp;type=staticpdf&amp;e=-------en--20--1--txt-txIN--------1" target="_blank"><span class="hiddenwhensmall">Issue PDF (137.42 MB)</span></a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /></div></div></div>
+
+
+
+  
+    
+
+
+
+  <div id="documentdisplay" class="divtable">
+    <div>
+      <!-- Left pane contains document-level tab with single-image previewer + metadata + table of contents + comments + tags areas plus section-level tab with text + metadata + comments + tags areas -->
+      <div id="documentdisplayleftpane">
+        <div id="documentdisplayleftpaneheader">
+          <!-- Bootstrap tabs and new dropdowns for shortcut links -->
+          <ul id="documentdisplayleftpanetabgroup" class="nav nav-tabs" role="tablist">
+            
+              <li class="nav-item">
+                <div id="documentdisplayleftpanedocumentleveltab" class="nav-link dropdown " data-target="#documentdisplayleftpanedocumentleveltabcontent" data-toggle="tab" role="tab" aria-controls="documentdisplayleftpanedocumentleveltab">
+                  <a class="documentdisplayleftpanetablink" href="#documentdisplayleftpanedocumentleveltabcontent">Issue</a>
+                  
+                </div>
+              </li>
+
+            
+              <li class="nav-item">
+                <div id="documentdisplayleftpanesectionleveltab" class="nav-link dropdown active" data-target="#documentdisplayleftpanesectionleveltabcontent" data-toggle="tab" role="tab" aria-controls="documentdisplayleftpanesectionleveltab">
+                  <a class="documentdisplayleftpanetablink" href="#documentdisplayleftpanesectionleveltabcontent">Article</a>
+                  
+                    <!-- There's more than one tab area so create a dropdown with shortcut links -->
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#dd" role="button" aria-haspopup="true" aria-expanded="false"></a>
+                    <div class="dropdown-menu">
+                      <a class="dropdown-item" href="#sectionleveltabtextarea" onclick="scrollToShowTabArea('documentdisplayleftpanesectionleveltab','sectionleveltabtextarea');">Text</a> 
+                       
+                      <a class="dropdown-item" href="#sectionleveltabcommentsarea" onclick="scrollToShowTabArea('documentdisplayleftpanesectionleveltab','sectionleveltabcommentsarea');">Comments <span class="documentdisplayleftpanecommentsnumber hiddeninitially documentdisplayshowwhensectionselected"></span></a> 
+                      <a class="dropdown-item" href="#sectionleveltabtagsarea" onclick="scrollToShowTabArea('documentdisplayleftpanesectionleveltab','sectionleveltabtagsarea');">Tags <span class="documentdisplayleftpanetagsnumber hiddeninitially documentdisplayshowwhensectionselected"></span></a> 
+                    </div>
+                </div>
+              </li>
+          </ul>
+        </div>
+        <div id="documentdisplayleftpanecontent">
+          <div id="documentdisplayleftpanecontentpadding" class="tab-content">
+            
+              <div id="documentdisplayleftpanedocumentleveltabcontent" class="tab-pane " role="tabpanel">
+                
+
+
+                
+
+
+                
+
+  
+<div id="documentleveltabcontentsarea">
+  <div id="documentleveltabcontentsareaheader" class="documentdisplayleftpanetabareaheader"><h3>Contents</h3></div>
+  <div id="documentleveltabcontentsareacontent">
+    <div class="documentdisplayleftpanetabareacontentpadding">
+
+    <div id="documentdisplayleftpanecontentscontainer">
+      <!-- Filled by AJAX when the document-level tab is first selected -->
+    </div>
+  
+    </div>
+  </div>
+</div>
+
+
+                
+
+
+                
+              </div>
+
+            
+              <div id="documentdisplayleftpanesectionleveltabcontent" class="tab-pane active" role="tabpanel">
+                <div id="documentdisplayleftpanesectionleveltabcontentinactive" class="documentdisplaynosectionselected">Select an article in the document viewer.</div>
+                <div id="documentdisplayleftpanesectionleveltabcontentactive" class="hiddeninitially documentdisplayshowwhensectionselected">
+                  
+
+  <div id="sectionleveltabtitlearea">
+    <!-- Filled by documentDisplayOnSectionSelected() when a section is selected -->
+  </div>
+
+                  
+
+  
+<div id="sectionleveltabtextarea">
+  <div id="sectionleveltabtextareaheader" class="documentdisplayleftpanetabareaheader"><h3>Text</h3></div>
+  <div id="sectionleveltabtextareacontent">
+    <div class="documentdisplayleftpanetabareacontentpadding">
+
+    
+      <div id="documentdisplayleftpanesectiontextcontainer">
+        <!-- Filled by AJAX when a section is selected -->
+      </div>
+  
+    </div>
+  </div>
+</div>
+
+
+                  
+
+
+                  
+
+  
+<div id="sectionleveltabcommentsarea">
+  <div id="sectionleveltabcommentsareaheader" class="documentdisplayleftpanetabareaheader"><h3>Comments <span class="documentdisplayleftpanecommentsnumber"></span></h3></div>
+  <div id="sectionleveltabcommentsareacontent">
+    <div class="documentdisplayleftpanetabareacontentpadding">
+
+    <div id="documentdisplayleftpanecommentsformcontainer">
+      <!-- Filled by AJAX when a section is selected -->
+    </div>
+    <div id="documentdisplayleftpanecommentscontainer">
+      <!-- Filled by AJAX when a section is selected -->
+    </div>
+  
+    </div>
+  </div>
+</div>
+
+
+                  
+
+  
+<div id="sectionleveltabtagsarea">
+  <div id="sectionleveltabtagsareaheader" class="documentdisplayleftpanetabareaheader"><h3>Tags <span class="documentdisplayleftpanetagsnumber"></span></h3></div>
+  <div id="sectionleveltabtagsareacontent">
+    <div class="documentdisplayleftpanetabareacontentpadding">
+
+    <div id="documentdisplayleftpanetagsformcontainer">
+      <!-- Filled by AJAX when a section is selected -->
+    </div>
+    <div id="documentdisplayleftpanetagscontainer">
+      <!-- Filled by AJAX when a section is selected -->
+    </div>
+  
+    </div>
+  </div>
+</div>
+
+
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>
+
+      
+<div id="documentdisplaypaneseparator" role="separator"><a id="documentdisplayleftpanehidelink" class="hiddeninitially" href="#" onclick="toggleLeftPaneHidden(400, true); return false;" title="Hide info pane"><svg class="svgicon touchclickable" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mi-chevronleft" role="img"><title id="mi-chevronleft">Hide info pane</title><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/><path d="M0 0h24v24H0z" fill="none"/></svg></a><a href="#" id="documentdisplayleftpaneshowlink" onclick="toggleLeftPaneHidden(400, true); return false;" title="Show info pane" data-toggle="popover" data-trigger="manual" data-content="Click to show the info pane"><svg class="svgicon touchclickable" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mi-chevronright" role="img"><title id="mi-chevronright">Show info pane</title><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/><path d="M0 0h24v24H0z" fill="none"/></svg></a></div>
+
+
+      <!-- Right pane contains PanoJS or OSeaD viewer -->
+      <div id="documentdisplayrightpane">
+        
+
+<div id="documentdisplayrightpaneheader">
+  <div id="viewercontrols">
+    <div>
+      <div class="nextprevdocumentlinkscell">
+        <a href="/?a=d&amp;d=DS19820616&amp;e=-------en--20--1--txt-txIN--------1" title="Previous issue"><svg class="svgicon" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" aria-label="Previous issue" role="img"><title>Previous issue</title><path d="M0 0h24v24H0z" fill="none"/><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg></a><a href="/?a=cl&amp;cl=CL1&amp;sp=DS&amp;e=-------en--20--1--txt-txIN--------1" title="Browse all issues of this publication"><svg class="svgicon" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mi-librarybooks" role="img"><title id="mi-librarybooks">Browse all issues of this publication</title><path d="M0 0h24v24H0z" fill="none"/><path d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-1 9H9V9h10v2zm-4 4H9v-2h6v2zm4-8H9V5h10v2z"/></svg></a><a href="/?a=d&amp;d=DS19820618&amp;e=-------en--20--1--txt-txIN--------1" title="Next issue"><svg class="svgicon" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" aria-label="Next issue" role="img"><title>Next issue</title><path d="M0 0h24v24H0z" fill="none"/><path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"/></svg></a>
+      </div>
+      <div class="nextprevsearchresultlinkscell">
+        
+      </div>
+      <div class="buttonscell">
+        <button id="documentdisplaymaximisebutton"  onclick="toggleDocumentDisplayMaximised();" title="Maximize" type="button"><svg class="svgicon touchclickable" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mi-fullscreen" role="img"><title id="mi-fullscreen">Maximize</title><path d="M0 0h24v24H0z" fill="none"/><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/></svg></button><button id="documentdisplayunmaximisebutton" class="hiddeninitially" onclick="toggleDocumentDisplayMaximised();" title="Unmaximize" type="button"><svg class="svgicon touchclickable" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mi-fullscreenexit" role="img"><title id="mi-fullscreenexit">Unmaximize</title><path d="M0 0h24v24H0z" fill="none"/><path d="M5 16h3v3h2v-5H5v2zm3-8H5v2h5V5H8v3zm6 11h2v-3h3v-2h-5v5zm2-11V5h-2v5h5V8h-3z"/></svg></button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="panojscontextmenupopup" class="hiddeninitially" oncontextmenu="return false;">
+  <div id="panojscontextmenupopupcontent"><!-- Filled by code in veridian-panojs.js --></div>
+</div>
+
+
+  <div id="viewer" class="panojsviewer" oncontextmenu="return false;">
+    <div class="panojsviewerbuttons">
+      
+      <button id="panojsclipstartbutton" onclick="panoJSUserClipImage.toggle(1);" title="Start clip" type="button"><svg class="svgicon touchclickable" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mi-clipstart" role="img"><title id="mi-clipstart">Start clip</title><path d="M0 0h24v24H0z" fill="none"/><circle cx="6" cy="18" fill="none" r="2"/><circle cx="12" cy="12" fill="none" r=".5"/><circle cx="6" cy="6" fill="none" r="2"/><path d="M9.64 7.64c.23-.5.36-1.05.36-1.64 0-2.21-1.79-4-4-4S2 3.79 2 6s1.79 4 4 4c.59 0 1.14-.13 1.64-.36L10 12l-2.36 2.36C7.14 14.13 6.59 14 6 14c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4c0-.59-.13-1.14-.36-1.64L12 14l7 7h3v-1L9.64 7.64zM6 8c-1.1 0-2-.89-2-2s.9-2 2-2 2 .89 2 2-.9 2-2 2zm0 12c-1.1 0-2-.89-2-2s.9-2 2-2 2 .89 2 2-.9 2-2 2zm6-7.5c-.28 0-.5-.22-.5-.5s.22-.5.5-.5.5.22.5.5-.22.5-.5.5zM19 3l-6 6 2 2 7-7V3z"/></svg></button>
+      <button id="panojsclipstopbutton" onclick="panoJSUserClipImage.toggle(0);" title="Stop clip" type="button" class="hiddeninitially"><svg class="svgicon highlightedbutton touchclickable" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mi-clipstop" role="img"><title id="mi-clipstop">Stop clip</title><path d="M0 0h24v24H0z" fill="none"/><circle cx="6" cy="18" fill="none" r="2"/><circle cx="12" cy="12" fill="none" r=".5"/><circle cx="6" cy="6" fill="none" r="2"/><path d="M9.64 7.64c.23-.5.36-1.05.36-1.64 0-2.21-1.79-4-4-4S2 3.79 2 6s1.79 4 4 4c.59 0 1.14-.13 1.64-.36L10 12l-2.36 2.36C7.14 14.13 6.59 14 6 14c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4c0-.59-.13-1.14-.36-1.64L12 14l7 7h3v-1L9.64 7.64zM6 8c-1.1 0-2-.89-2-2s.9-2 2-2 2 .89 2 2-.9 2-2 2zm0 12c-1.1 0-2-.89-2-2s.9-2 2-2 2 .89 2 2-.9 2-2 2zm6-7.5c-.28 0-.5-.22-.5-.5s.22-.5.5-.5.5.22.5.5-.22.5-.5.5zM19 3l-6 6 2 2 7-7V3z"/></svg></button>
+      <button id="panojszoominbutton" onclick="viewerZoom(1);" title="Zoom in" type="button"><svg class="svgicon touchclickable" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mi-zoomin" role="img"><title id="mi-zoomin">Zoom in</title><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/><path d="M0 0h24v24H0V0z" fill="none"/><path d="M12 10h-2v2H9v-2H7V9h2V7h1v2h2v1z"/></svg></button>
+      <button id="panojszoomoutbutton" onclick="viewerZoom(-1);" title="Zoom out" type="button"><svg class="svgicon touchclickable" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mi-zoomout" role="img"><title id="mi-zoomout">Zoom out</title><path d="M0 0h24v24H0V0z" fill="none"/><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14zM7 9h5v1H7z"/></svg></button>
+    </div>
+    <div class="well" id="well"><!-- Filled by PanoJS --></div>
+    <div class="surface" id="touchArea"><!-- Filled by PanoJS --></div>
+
+  </div>
+
+
+<script>
+// <![CDATA[
+
+var blankTile = '/web/images/blank.gif';
+var documentOID = 'DS19820617';
+var grabCursor = '/web/images/grab.cur';
+var grabbingCursor = '/web/images/grabbing.cur';
+var imageserverPageTileImageRequestBase = '/?a=is&type=pagetileimage';
+var loadingTile = '/web/images/blank.gif';
+
+var level = 'document';
+var panoJSMode = 'view';
+
+var missingPageIDs = {  };
+var missingPageImageWidth = 4019;
+var missingPageImageHeight = 6181;
+var pageImageSizes = { '1.1':{w:4137,h:6693},'1.2':{w:4137,h:6693},'1.3':{w:4137,h:6693},'1.4':{w:4063,h:6646},'1.5':{w:4137,h:6693},'1.6':{w:4137,h:6693},'1.7':{w:4137,h:6693},'1.8':{w:5754,h:6646},'1.9':{w:4137,h:6693},'1.10':{w:4137,h:6693},'1.11':{w:4137,h:6693},'1.12':{w:4137,h:6693},'1.13':{w:4137,h:6693},'1.14':{w:4137,h:6693},'1.15':{w:4137,h:6693},'1.16':{w:4137,h:6693},'1.17':{w:4137,h:6693},'1.18':{w:4137,h:6693},'1.19':{w:4137,h:6693},'1.20':{w:4137,h:6693},'1.21':{w:4137,h:6693},'1.22':{w:4137,h:6693},'1.23':{w:4137,h:6693},'1.24':{w:4137,h:6693},'1.25':{w:4137,h:6693},'1.26':{w:4137,h:6693},'1.27':{w:4137,h:6693},'1.28':{w:4071,h:6644},'1.29':{w:4137,h:6693},'1.30':{w:4137,h:6693},'1.31':{w:4137,h:6693},'1.32':{w:4137,h:6693},'1.33':{w:4137,h:6693},'1.34':{w:4137,h:6693},'1.35':{w:4137,h:6693},'1.36':{w:4137,h:6693},'1.37':{w:4137,h:6693},'1.38':{w:4137,h:6693},'1.39':{w:4137,h:6693},'1.40':{w:4137,h:6693},'1.41':{w:4137,h:6693},'1.42':{w:4137,h:6693},'1.43':{w:3372,h:4408},'1.44':{w:3370,h:4397},'1.45':{w:3381,h:4397},'1.46':{w:3348,h:4404},'1.47':{w:3394,h:4404},'1.48':{w:4761,h:4406},'1.49':{w:3288,h:4407},'1.50':{w:3389,h:4401},'1.51':{w:3353,h:4401},'1.52':{w:3386,h:4385},'1.53':{w:3353,h:4384},'1.54':{w:3406,h:4427} };
+
+// Filled by getPanoJSPageData() AJAX code
+var sectionPageBlockAreas = { };
+var sectionTitlesRaw = { };
+var sectionTitles = { };
+var pageLabels = { };
+var pageContextMenus = { };
+var pageQueryTermAreas = { };
+var logicalSectionContextMenus = { };
+
+// Filled by getPanoJSPageData() AJAX code -- QA specific
+var pageBlockAreas = { };
+var textCorrectionCompletelyCorrectPageBlockIDs = { };
+
+var initialDisplayPageArea = { pageID:'1.25',x:101,y:230,w:3861,h:227 };
+var initialSelectedSectionID = '2.111';
+
+// Start with the data for the initially displayed pages (the rest is obtained using getPanoJSData AJAX requests)
+pageLabels['1.25'] = '<div><b>Page A25<\/b><\/div>';
+pageQueryTermAreas['1.25'] = [];
+sectionTitlesRaw['1.25'] = 'Page A25';
+sectionTitles['1.25'] = 'Page A25';
+pageContextMenus['1.25'] = '\n\n  <div class="panojscontextmenupopupsectionheader">Page A25<\/div>\n  <div class="panojspdflinkcontainer"><a href="/?a=is&amp;oid=DS19820617.1.25&amp;type=staticpdf&amp;e=-------en--20--1--txt-txIN--------1" target="_blank">PDF of this page<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n  <!-- CDNC CUSTOMISATION: New JPG of this page option for premium users -->\n  <div class="panojsdownloadpagejpglinkcontainer"><a onclick="downloadPageJPG(\'/?a=is&oid=DS19820617.1.25&type=pageimage&e=-------en--20--1--txt-txIN--------1\'); return false;">JPG of this page<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n  <div class="panojssectiontextlinkcontainer"><a href="/?a=d&amp;d=DS19820617.1.25&amp;dliv=none&amp;st=1&amp;e=-------en--20--1--txt-txIN--------1">Text of this page<\/a><\/div>\n  <div class="panojstextcorrectlinkcontainer"><a href="/?a=tc&amp;d=DS19820617.1.25&amp;e=-------en--20--1--txt-txIN--------1">Correct page text<\/a><\/div>\n  <div class="panojsadduserlistitemslinkcontainer"><a class="adduserlistitemslink" href="#" onclick="openAddUserListItemsPopup(event.target, [\'DS19820617.1.25\']); return false;">Add to private list<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n<!-- CDNC CUSTOMISATION: New Report page problem option -->\n<div class="panojsreportpageproblemlinkcontainer"><a href="mailto:cbsrinfo@ucr.edu?subject=Problem%20Page%20Report%3A%20DS19820617.1.25">Report page problem<\/a><\/div>\n';
+sectionPageBlockAreas['2.103'] = [{pageID:'1.23',blockID:'P23_TB00009',x:83,y:2755,w:2799,h:153},{pageID:'1.23',blockID:'P23_TB00010',x:218,y:2948,w:440,h:100},{pageID:'1.23',blockID:'P23_TB00011',x:83,y:3036,w:712,h:1717},{pageID:'1.23',blockID:'P23_TB00012',x:824,y:2956,w:710,h:1793},{pageID:'1.23',blockID:'P23_TB00013',x:1537,y:2953,w:725,h:314},{pageID:'1.23',blockID:'P23_TB00014',x:2256,y:2953,w:720,h:270},{pageID:'1.25',blockID:'P25_TB00001',x:1066,y:2037,w:717,h:930},{pageID:'1.25',blockID:'P25_TB00002',x:1793,y:1973,w:737,h:994}];
+sectionTitlesRaw['2.103'] = '‘Star Trek IT: The wrath of Trekkies';
+sectionTitles['2.103'] = '<span class="DS19820617.2.103-Title-0">‘Star Trek IT: The wrath of Trekkies<\/span> ';
+logicalSectionContextMenus['2.103'] = '\n<div class="panojscontextmenupopupsectionheader">‘Star Trek IT: The wrath of Trekkies &#91;ARTICLE&#93;<\/div>\n<div class="panojszoomtoreadlinkcontainer"><a  href="/?a=d&amp;d=DS19820617.2.103&amp;e=-------en--20--1--txt-txIN--------1">Zoom to this article<\/a><\/div>\n<div class="panojslogicalsectionimageslinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.103&amp;dliv=none&amp;e=-------en--20--1--txt-txIN--------1">Clip this article<\/a><\/div>\n\n<div class="panojssectiontextlinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.103&amp;dliv=none&amp;st=1&amp;e=-------en--20--1--txt-txIN--------1">Text of this article<\/a><\/div>\n<div class="panojstextcorrectlinkcontainer"><a href="/?a=tc&amp;d=DS19820617.2.103&amp;e=-------en--20--1--txt-txIN--------1">Correct article text<\/a><\/div>\n<div class="panojsadduserlistitemslinkcontainer"><a class="adduserlistitemslink" href="#" onclick="openAddUserListItemsPopup(event.target, [\'DS19820617.2.103\']); return false;">Add to private list<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n';
+sectionPageBlockAreas['2.111'] = [{pageID:'1.25',blockID:'P25_TB00003',x:101,y:230,w:3861,h:227},{pageID:'1.25',blockID:'P25_TB00004',x:402,y:440,w:360,h:104},{pageID:'1.25',blockID:'P25_TB00005',x:95,y:523,w:973,h:1143},{pageID:'1.25',blockID:'P25_TB00006',x:1064,y:459,w:971,h:1373},{pageID:'1.25',blockID:'P25_TB00007',x:2024,y:459,w:973,h:778},{pageID:'1.25',blockID:'P25_TB00008',x:2996,y:459,w:960,h:778}];
+sectionTitlesRaw['2.111'] = 'At The Movies: ‘E.T.’ is, quite simply, great';
+sectionTitles['2.111'] = '<span class="DS19820617.2.111-Title-0">At The Movies: ‘E.T.’ is, quite simply, great<\/span> ';
+logicalSectionContextMenus['2.111'] = '\n<div class="panojscontextmenupopupsectionheader">At The Movies: ‘E.T.’ is, quite simply, great &#91;ARTICLE&#93;<\/div>\n<div class="panojszoomtoreadlinkcontainer"><a  href="/?a=d&amp;d=DS19820617.2.111&amp;e=-------en--20--1--txt-txIN--------1">Zoom to this article<\/a><\/div>\n<div class="panojslogicalsectionimageslinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.111&amp;dliv=none&amp;e=-------en--20--1--txt-txIN--------1">Clip this article<\/a><\/div>\n\n<div class="panojssectiontextlinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.111&amp;dliv=none&amp;st=1&amp;e=-------en--20--1--txt-txIN--------1">Text of this article<\/a><\/div>\n<div class="panojstextcorrectlinkcontainer"><a href="/?a=tc&amp;d=DS19820617.2.111&amp;e=-------en--20--1--txt-txIN--------1">Correct article text<\/a><\/div>\n<div class="panojsadduserlistitemslinkcontainer"><a class="adduserlistitemslink" href="#" onclick="openAddUserListItemsPopup(event.target, [\'DS19820617.2.111\']); return false;">Add to private list<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n';
+sectionPageBlockAreas['2.112'] = [{pageID:'1.25',blockID:'P25_TB00009',x:93,y:1682,w:900,h:310},{pageID:'1.25',blockID:'P25_TB00010',x:83,y:3117,w:339,h:117},{pageID:'1.25',blockID:'P25_TB00011',x:96,y:3230,w:499,h:266},{pageID:'1.25',blockID:'P25_TB00012',x:577,y:1999,w:504,h:1496},{pageID:'1.25',blockID:'P25_CB00001',x:96,y:2033,w:484,h:1078}];
+sectionTitlesRaw['2.112'] = 'BRIDGE Oswald Jacoby and Alan Sontag South wins, anyway';
+sectionTitles['2.112'] = '<span class="DS19820617.2.112-Title-0">BRIDGE Oswald Jacoby and Alan Sontag South wins, anyway<\/span> ';
+logicalSectionContextMenus['2.112'] = '\n<div class="panojscontextmenupopupsectionheader">BRIDGE Oswald Jacoby and Alan Sontag South wins, anyway &#91;ARTICLE+ILLUSTRATION&#93;<\/div>\n<div class="panojszoomtoreadlinkcontainer"><a  href="/?a=d&amp;d=DS19820617.2.112&amp;e=-------en--20--1--txt-txIN--------1">Zoom to this article<\/a><\/div>\n<div class="panojslogicalsectionimageslinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.112&amp;dliv=none&amp;e=-------en--20--1--txt-txIN--------1">Clip this article<\/a><\/div>\n\n<div class="panojssectiontextlinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.112&amp;dliv=none&amp;st=1&amp;e=-------en--20--1--txt-txIN--------1">Text of this article<\/a><\/div>\n<div class="panojstextcorrectlinkcontainer"><a href="/?a=tc&amp;d=DS19820617.2.112&amp;e=-------en--20--1--txt-txIN--------1">Correct article text<\/a><\/div>\n<div class="panojsadduserlistitemslinkcontainer"><a class="adduserlistitemslink" href="#" onclick="openAddUserListItemsPopup(event.target, [\'DS19820617.2.112\']); return false;">Add to private list<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n';
+sectionPageBlockAreas['2.113'] = [{pageID:'1.25',blockID:'P25_TB00013',x:96,y:3505,w:497,h:399},{pageID:'1.25',blockID:'P25_TB00014',x:96,y:3896,w:495,h:2596},{pageID:'1.25',blockID:'P25_TB00015',x:577,y:3519,w:502,h:509}];
+sectionTitlesRaw['2.113'] = 'ASTRO-GBAPH Bernice Bede Osol \\JS/ ‘Birthday';
+sectionTitles['2.113'] = '<span class="DS19820617.2.113-Title-0">ASTRO-GBAPH Bernice Bede Osol \\JS/ ‘Birthday<\/span> ';
+logicalSectionContextMenus['2.113'] = '\n<div class="panojscontextmenupopupsectionheader">ASTRO-GBAPH Bernice Bede Osol \\JS/ ‘Birthday &#91;ARTICLE&#93;<\/div>\n<div class="panojszoomtoreadlinkcontainer"><a  href="/?a=d&amp;d=DS19820617.2.113&amp;e=-------en--20--1--txt-txIN--------1">Zoom to this article<\/a><\/div>\n<div class="panojslogicalsectionimageslinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.113&amp;dliv=none&amp;e=-------en--20--1--txt-txIN--------1">Clip this article<\/a><\/div>\n\n<div class="panojssectiontextlinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.113&amp;dliv=none&amp;st=1&amp;e=-------en--20--1--txt-txIN--------1">Text of this article<\/a><\/div>\n<div class="panojstextcorrectlinkcontainer"><a href="/?a=tc&amp;d=DS19820617.2.113&amp;e=-------en--20--1--txt-txIN--------1">Correct article text<\/a><\/div>\n<div class="panojsadduserlistitemslinkcontainer"><a class="adduserlistitemslink" href="#" onclick="openAddUserListItemsPopup(event.target, [\'DS19820617.2.113\']); return false;">Add to private list<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n';
+sectionPageBlockAreas['2.114'] = [{pageID:'1.25',blockID:'P25_TB00016',x:2024,y:1254,w:431,h:168},{pageID:'1.25',blockID:'P25_TB00017',x:2024,y:1431,w:494,h:401}];
+sectionTitlesRaw['2.114'] = 'Bonnie Franklin in ‘Love in Bloom’';
+sectionTitles['2.114'] = '<span class="DS19820617.2.114-Title-0">Bonnie Franklin in ‘Love in Bloom’<\/span> ';
+logicalSectionContextMenus['2.114'] = '\n<div class="panojscontextmenupopupsectionheader">Bonnie Franklin in ‘Love in Bloom’ &#91;ARTICLE&#93;<\/div>\n<div class="panojszoomtoreadlinkcontainer"><a  href="/?a=d&amp;d=DS19820617.2.114&amp;e=-------en--20--1--txt-txIN--------1">Zoom to this article<\/a><\/div>\n<div class="panojslogicalsectionimageslinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.114&amp;dliv=none&amp;e=-------en--20--1--txt-txIN--------1">Clip this article<\/a><\/div>\n\n<div class="panojssectiontextlinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.114&amp;dliv=none&amp;st=1&amp;e=-------en--20--1--txt-txIN--------1">Text of this article<\/a><\/div>\n<div class="panojstextcorrectlinkcontainer"><a href="/?a=tc&amp;d=DS19820617.2.114&amp;e=-------en--20--1--txt-txIN--------1">Correct article text<\/a><\/div>\n<div class="panojsadduserlistitemslinkcontainer"><a class="adduserlistitemslink" href="#" onclick="openAddUserListItemsPopup(event.target, [\'DS19820617.2.114\']); return false;">Add to private list<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n';
+sectionPageBlockAreas['2.115.1'] = [{pageID:'1.25',blockID:'P25_CB00002',x:2559,y:1222,w:1419,h:2866},{pageID:'1.25',blockID:'P25_CB00003',x:1066,y:2971,w:1463,h:1118},{pageID:'1.25',blockID:'P25_CB00004',x:667,y:4101,w:3278,h:2322}];
+sectionTitlesRaw['2.115.1'] = 'Page A25 Advertisements Column 1';
+sectionTitles['2.115.1'] = '<span class="DS19820617.2.115.1-Title-0">Page A25 Advertisements Column 1<\/span> ';
+logicalSectionContextMenus['2.115.1'] = '\n<div class="panojscontextmenupopupsectionheader">Page A25 Advertisements Column 1 &#91;ADVERTISEMENT&#93;<\/div>\n<div class="panojszoomtoreadlinkcontainer"><a  href="/?a=d&amp;d=DS19820617.2.115.1&amp;e=-------en--20--1--txt-txIN--------1">Zoom to this article<\/a><\/div>\n<div class="panojslogicalsectionimageslinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.115.1&amp;dliv=none&amp;e=-------en--20--1--txt-txIN--------1">Clip this article<\/a><\/div>\n\n<div class="panojssectiontextlinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.115.1&amp;dliv=none&amp;st=1&amp;e=-------en--20--1--txt-txIN--------1">Text of this article<\/a><\/div>\n<div class="panojstextcorrectlinkcontainer"><a href="/?a=tc&amp;d=DS19820617.2.115.1&amp;e=-------en--20--1--txt-txIN--------1">Correct article text<\/a><\/div>\n<div class="panojsadduserlistitemslinkcontainer"><a class="adduserlistitemslink" href="#" onclick="openAddUserListItemsPopup(event.target, [\'DS19820617.2.115.1\']); return false;">Add to private list<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n';
+
+pageLabels['1.24'] = '<div><b>Page A24<\/b><\/div>';
+pageQueryTermAreas['1.24'] = [];
+sectionTitlesRaw['1.24'] = 'Page A24';
+sectionTitles['1.24'] = 'Page A24';
+pageContextMenus['1.24'] = '\n\n  <div class="panojscontextmenupopupsectionheader">Page A24<\/div>\n  <div class="panojspdflinkcontainer"><a href="/?a=is&amp;oid=DS19820617.1.24&amp;type=staticpdf&amp;e=-------en--20--1--txt-txIN--------1" target="_blank">PDF of this page<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n  <!-- CDNC CUSTOMISATION: New JPG of this page option for premium users -->\n  <div class="panojsdownloadpagejpglinkcontainer"><a onclick="downloadPageJPG(\'/?a=is&oid=DS19820617.1.24&type=pageimage&e=-------en--20--1--txt-txIN--------1\'); return false;">JPG of this page<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n  <div class="panojssectiontextlinkcontainer"><a href="/?a=d&amp;d=DS19820617.1.24&amp;dliv=none&amp;st=1&amp;e=-------en--20--1--txt-txIN--------1">Text of this page<\/a><\/div>\n  <div class="panojstextcorrectlinkcontainer"><a href="/?a=tc&amp;d=DS19820617.1.24&amp;e=-------en--20--1--txt-txIN--------1">Correct page text<\/a><\/div>\n  <div class="panojsadduserlistitemslinkcontainer"><a class="adduserlistitemslink" href="#" onclick="openAddUserListItemsPopup(event.target, [\'DS19820617.1.24\']); return false;">Add to private list<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n<!-- CDNC CUSTOMISATION: New Report page problem option -->\n<div class="panojsreportpageproblemlinkcontainer"><a href="mailto:cbsrinfo@ucr.edu?subject=Problem%20Page%20Report%3A%20DS19820617.1.24">Report page problem<\/a><\/div>\n';
+sectionPageBlockAreas['2.107'] = [{pageID:'1.24',blockID:'P24_TB00001',x:175,y:231,w:2868,h:169},{pageID:'1.24',blockID:'P24_TB00002',x:405,y:419,w:485,h:98},{pageID:'1.24',blockID:'P24_TB00003',x:172,y:503,w:967,h:1000},{pageID:'1.24',blockID:'P24_TB00004',x:1147,y:433,w:966,h:1080},{pageID:'1.24',blockID:'P24_TB00005',x:2109,y:444,w:975,h:1326}];
+sectionTitlesRaw['2.107'] = 'A few tips from Professor Donald Duck';
+sectionTitles['2.107'] = '<span class="DS19820617.2.107-Title-0">A few tips from Professor Donald Duck<\/span> ';
+logicalSectionContextMenus['2.107'] = '\n<div class="panojscontextmenupopupsectionheader">A few tips from Professor Donald Duck &#91;ARTICLE&#93;<\/div>\n<div class="panojszoomtoreadlinkcontainer"><a  href="/?a=d&amp;d=DS19820617.2.107&amp;e=-------en--20--1--txt-txIN--------1">Zoom to this article<\/a><\/div>\n<div class="panojslogicalsectionimageslinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.107&amp;dliv=none&amp;e=-------en--20--1--txt-txIN--------1">Clip this article<\/a><\/div>\n\n<div class="panojssectiontextlinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.107&amp;dliv=none&amp;st=1&amp;e=-------en--20--1--txt-txIN--------1">Text of this article<\/a><\/div>\n<div class="panojstextcorrectlinkcontainer"><a href="/?a=tc&amp;d=DS19820617.2.107&amp;e=-------en--20--1--txt-txIN--------1">Correct article text<\/a><\/div>\n<div class="panojsadduserlistitemslinkcontainer"><a class="adduserlistitemslink" href="#" onclick="openAddUserListItemsPopup(event.target, [\'DS19820617.2.107\']); return false;">Add to private list<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n';
+sectionPageBlockAreas['2.108'] = [{pageID:'1.24',blockID:'P24_TB00006',x:173,y:1568,w:1882,h:166},{pageID:'1.24',blockID:'P24_TB00007',x:223,y:1747,w:370,h:103},{pageID:'1.24',blockID:'P24_TB00008',x:155,y:1834,w:494,h:4629},{pageID:'1.24',blockID:'P24_TB00009',x:646,y:1764,w:496,h:553},{pageID:'1.24',blockID:'P24_TB00010',x:1134,y:1764,w:496,h:553},{pageID:'1.24',blockID:'P24_TB00011',x:1617,y:1764,w:503,h:1826}];
+sectionTitlesRaw['2.108'] = 'Feast on a budget: ‘Diner9';
+sectionTitles['2.108'] = '<span class="DS19820617.2.108-Title-0">Feast on a budget: ‘Diner9<\/span> ';
+logicalSectionContextMenus['2.108'] = '\n<div class="panojscontextmenupopupsectionheader">Feast on a budget: ‘Diner9 &#91;ARTICLE&#93;<\/div>\n<div class="panojszoomtoreadlinkcontainer"><a  href="/?a=d&amp;d=DS19820617.2.108&amp;e=-------en--20--1--txt-txIN--------1">Zoom to this article<\/a><\/div>\n<div class="panojslogicalsectionimageslinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.108&amp;dliv=none&amp;e=-------en--20--1--txt-txIN--------1">Clip this article<\/a><\/div>\n\n<div class="panojssectiontextlinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.108&amp;dliv=none&amp;st=1&amp;e=-------en--20--1--txt-txIN--------1">Text of this article<\/a><\/div>\n<div class="panojstextcorrectlinkcontainer"><a href="/?a=tc&amp;d=DS19820617.2.108&amp;e=-------en--20--1--txt-txIN--------1">Correct article text<\/a><\/div>\n<div class="panojsadduserlistitemslinkcontainer"><a class="adduserlistitemslink" href="#" onclick="openAddUserListItemsPopup(event.target, [\'DS19820617.2.108\']); return false;">Add to private list<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n';
+sectionPageBlockAreas['2.109'] = [{pageID:'1.24',blockID:'P24_TB00012',x:651,y:2318,w:979,h:231},{pageID:'1.24',blockID:'P24_TB00013',x:961,y:2576,w:351,h:98},{pageID:'1.24',blockID:'P24_TB00014',x:646,y:2666,w:985,h:1425}];
+sectionTitlesRaw['2.109'] = 'Outer space brings big dollars to earth';
+sectionTitles['2.109'] = '<span class="DS19820617.2.109-Title-0">Outer space brings big dollars to earth<\/span> ';
+logicalSectionContextMenus['2.109'] = '\n<div class="panojscontextmenupopupsectionheader">Outer space brings big dollars to earth &#91;ARTICLE&#93;<\/div>\n<div class="panojszoomtoreadlinkcontainer"><a  href="/?a=d&amp;d=DS19820617.2.109&amp;e=-------en--20--1--txt-txIN--------1">Zoom to this article<\/a><\/div>\n<div class="panojslogicalsectionimageslinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.109&amp;dliv=none&amp;e=-------en--20--1--txt-txIN--------1">Clip this article<\/a><\/div>\n\n<div class="panojssectiontextlinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.109&amp;dliv=none&amp;st=1&amp;e=-------en--20--1--txt-txIN--------1">Text of this article<\/a><\/div>\n<div class="panojstextcorrectlinkcontainer"><a href="/?a=tc&amp;d=DS19820617.2.109&amp;e=-------en--20--1--txt-txIN--------1">Correct article text<\/a><\/div>\n<div class="panojsadduserlistitemslinkcontainer"><a class="adduserlistitemslink" href="#" onclick="openAddUserListItemsPopup(event.target, [\'DS19820617.2.109\']); return false;">Add to private list<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n';
+sectionPageBlockAreas['2.110.1'] = [{pageID:'1.24',blockID:'P24_CB00001',x:646,y:4093,w:1161,h:2413}];
+sectionTitlesRaw['2.110.1'] = 'Page A24 Advertisements Column 1';
+sectionTitles['2.110.1'] = '<span class="DS19820617.2.110.1-Title-0">Page A24 Advertisements Column 1<\/span> ';
+logicalSectionContextMenus['2.110.1'] = '\n<div class="panojscontextmenupopupsectionheader">Page A24 Advertisements Column 1 &#91;ADVERTISEMENT&#93;<\/div>\n<div class="panojszoomtoreadlinkcontainer"><a  href="/?a=d&amp;d=DS19820617.2.110.1&amp;e=-------en--20--1--txt-txIN--------1">Zoom to this article<\/a><\/div>\n<div class="panojslogicalsectionimageslinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.110.1&amp;dliv=none&amp;e=-------en--20--1--txt-txIN--------1">Clip this article<\/a><\/div>\n\n<div class="panojssectiontextlinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.110.1&amp;dliv=none&amp;st=1&amp;e=-------en--20--1--txt-txIN--------1">Text of this article<\/a><\/div>\n<div class="panojstextcorrectlinkcontainer"><a href="/?a=tc&amp;d=DS19820617.2.110.1&amp;e=-------en--20--1--txt-txIN--------1">Correct article text<\/a><\/div>\n<div class="panojsadduserlistitemslinkcontainer"><a class="adduserlistitemslink" href="#" onclick="openAddUserListItemsPopup(event.target, [\'DS19820617.2.110.1\']); return false;">Add to private list<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n';
+sectionPageBlockAreas['2.110.2'] = [{pageID:'1.24',blockID:'P24_CB00002',x:3091,y:432,w:960,h:1338},{pageID:'1.24',blockID:'P24_CB00003',x:2371,y:1764,w:1685,h:1826},{pageID:'1.24',blockID:'P24_CB00004',x:1887,y:3609,w:2169,h:2897}];
+sectionTitlesRaw['2.110.2'] = 'Page A24 Advertisements Column 2';
+sectionTitles['2.110.2'] = '<span class="DS19820617.2.110.2-Title-0">Page A24 Advertisements Column 2<\/span> ';
+logicalSectionContextMenus['2.110.2'] = '\n<div class="panojscontextmenupopupsectionheader">Page A24 Advertisements Column 2 &#91;ADVERTISEMENT&#93;<\/div>\n<div class="panojszoomtoreadlinkcontainer"><a  href="/?a=d&amp;d=DS19820617.2.110.2&amp;e=-------en--20--1--txt-txIN--------1">Zoom to this article<\/a><\/div>\n<div class="panojslogicalsectionimageslinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.110.2&amp;dliv=none&amp;e=-------en--20--1--txt-txIN--------1">Clip this article<\/a><\/div>\n\n<div class="panojssectiontextlinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.110.2&amp;dliv=none&amp;st=1&amp;e=-------en--20--1--txt-txIN--------1">Text of this article<\/a><\/div>\n<div class="panojstextcorrectlinkcontainer"><a href="/?a=tc&amp;d=DS19820617.2.110.2&amp;e=-------en--20--1--txt-txIN--------1">Correct article text<\/a><\/div>\n<div class="panojsadduserlistitemslinkcontainer"><a class="adduserlistitemslink" href="#" onclick="openAddUserListItemsPopup(event.target, [\'DS19820617.2.110.2\']); return false;">Add to private list<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n';
+
+pageLabels['1.26'] = '<div><b>Page A26<\/b><\/div>';
+pageQueryTermAreas['1.26'] = [];
+sectionTitlesRaw['1.26'] = 'Page A26';
+sectionTitles['1.26'] = 'Page A26';
+pageContextMenus['1.26'] = '\n\n  <div class="panojscontextmenupopupsectionheader">Page A26<\/div>\n  <div class="panojspdflinkcontainer"><a href="/?a=is&amp;oid=DS19820617.1.26&amp;type=staticpdf&amp;e=-------en--20--1--txt-txIN--------1" target="_blank">PDF of this page<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n  <!-- CDNC CUSTOMISATION: New JPG of this page option for premium users -->\n  <div class="panojsdownloadpagejpglinkcontainer"><a onclick="downloadPageJPG(\'/?a=is&oid=DS19820617.1.26&type=pageimage&e=-------en--20--1--txt-txIN--------1\'); return false;">JPG of this page<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n  <div class="panojssectiontextlinkcontainer"><a href="/?a=d&amp;d=DS19820617.1.26&amp;dliv=none&amp;st=1&amp;e=-------en--20--1--txt-txIN--------1">Text of this page<\/a><\/div>\n  <div class="panojstextcorrectlinkcontainer"><a href="/?a=tc&amp;d=DS19820617.1.26&amp;e=-------en--20--1--txt-txIN--------1">Correct page text<\/a><\/div>\n  <div class="panojsadduserlistitemslinkcontainer"><a class="adduserlistitemslink" href="#" onclick="openAddUserListItemsPopup(event.target, [\'DS19820617.1.26\']); return false;">Add to private list<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n<!-- CDNC CUSTOMISATION: New Report page problem option -->\n<div class="panojsreportpageproblemlinkcontainer"><a href="mailto:cbsrinfo@ucr.edu?subject=Problem%20Page%20Report%3A%20DS19820617.1.26">Report page problem<\/a><\/div>\n';
+sectionPageBlockAreas['2.116.1'] = [{pageID:'1.26',blockID:'P26_CB00001',x:161,y:168,w:3923,h:6309}];
+sectionTitlesRaw['2.116.1'] = 'Page A26 Advertisements Column 1';
+sectionTitles['2.116.1'] = '<span class="DS19820617.2.116.1-Title-0">Page A26 Advertisements Column 1<\/span> ';
+logicalSectionContextMenus['2.116.1'] = '\n<div class="panojscontextmenupopupsectionheader">Page A26 Advertisements Column 1 &#91;ADVERTISEMENT&#93;<\/div>\n<div class="panojszoomtoreadlinkcontainer"><a  href="/?a=d&amp;d=DS19820617.2.116.1&amp;e=-------en--20--1--txt-txIN--------1">Zoom to this article<\/a><\/div>\n<div class="panojslogicalsectionimageslinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.116.1&amp;dliv=none&amp;e=-------en--20--1--txt-txIN--------1">Clip this article<\/a><\/div>\n\n<div class="panojssectiontextlinkcontainer"><a href="/?a=d&amp;d=DS19820617.2.116.1&amp;dliv=none&amp;st=1&amp;e=-------en--20--1--txt-txIN--------1">Text of this article<\/a><\/div>\n<div class="panojstextcorrectlinkcontainer"><a href="/?a=tc&amp;d=DS19820617.2.116.1&amp;e=-------en--20--1--txt-txIN--------1">Correct article text<\/a><\/div>\n<div class="panojsadduserlistitemslinkcontainer"><a class="adduserlistitemslink" href="#" onclick="openAddUserListItemsPopup(event.target, [\'DS19820617.2.116.1\']); return false;">Add to private list<\/a><img alt="Locked" src="/web/images/iconlock.gif" style="height: 16px; width: 16px" title="Locked" /><\/div>\n';
+
+
+// Controls how far from absolute minimum zoom the "zoomed out" (initial document display) view is
+var zoomedOutOffset = 1;
+
+// Controls how far from absolute maximum zoom the "zoomed in" (logical section display) view is
+var zoomedInOffset = 2;
+
+// ]]>
+</script>
+
+
+
+  <script src="/web/script/jquery/jquery.mousewheel.min.js?lmd=1440550636"></script>
+  <script src="/web/script/PanoJS.js?lmd=1537148188"></script>
+  <script src="/web/script/veridian-panojs.js?lmd=1537401422"></script>
+  <script src="/web/script/hammer/hammer-2.0.8-2016-04-23-min.js"></script>
+  <script src="/web/script/polyfill/ie-touch.js?lmd=1505079663"></script>
+  <script src="/web/script/veridian-panojs-touch.js?lmd=1504751004"></script>
+  <script>
+    // <![CDATA[
+    var okSvgImage = '<svg class="svgicon" fill="#000000" height="16" viewBox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mi-ok" role="img"><title id="mi-ok">OK<\/title><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/><\/svg>';
+    var cancelSvgImage = '<svg class="svgicon" fill="#000000" height="16" viewBox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg" aria-labelledby="mi-cancel" role="img"><title id="mi-cancel">Cancel<\/title><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/><\/svg>';
+    // ]]>
+  </script>
+
+
+        
+      </div>
+    </div>
+  </div>
+  
+<script src="/web/script/jquery/jquery.documentsize.min.js?lmd=1503892146"></script>
+<script src="/web/script/jquery/jquery-ui-1.9.2.disableSelection.js"></script>
+<script src="/web/script/veridian-documentdisplay.js?lmd=1537401422"></script>
+<script>
+  // <![CDATA[
+
+  var documentOID = 'DS19820617';
+  var documentDisplayLeftPaneDesiredWidth = 330;
+  var documentDisplayMaximised = false;
+  var documentDisplayMode = 'PanoJS';
+
+  // ]]>
+</script>
+
+  
+
+
+
+
+
+  </div>
+
+</div>
+
+
+
+  </div>
+  <footer id="footer" class="commonedging hidden-print hiddenwhensmall">
+    <div id="footercontent">
+      <div id="footercopyright">&copy; 2008-2019 <a class="footerlink" href="http://www.veridiansoftware.com" target="_blank">DL Consulting.</a> All rights reserved.</div>
+      <div id="footerpoweredby">Powered by <a class="footerlink" href="http://www.veridiansoftware.com" target="_blank">Veridian</a></div>
+      <div id="footerprivacy"><a class="privacylink footerlink" href="/?a=p&amp;p=privacy&amp;e=-------en--20--1--txt-txIN--------1#all" onclick="openPrivacyPopup(event.target, 'allContent'); return false;">Privacy policy</a></div>
+      <div id="footersocialbookmarks">
+
+  <div id="socialbookmarks"><!-- Filled by the following jsSocials code --></div>
+  <script src="/web/script/jssocials.min.js?lmd=1532571603"></script>
+  <script>
+    $("#socialbookmarks").jsSocials({
+      showLabel: false,
+      showCount: false,
+      shareIn: "popup",
+      shares: [
+        "facebook",
+        "twitter",
+        "googleplus",
+        { share: "email", shareUrl: "mailto:{to}?subject=" + document.title + "&body=Reference URL: {url}"}]
+    });
+  </script>
+</div>
+    </div>
+  </footer>
+
+
+    <!-- Alert popup -->
+    
+<div id="alertpopup" class="modal" tabindex="-1" role="dialog" aria-labelledby="alertpopuplabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 id="alertpopuplabel" class="modal-title">Alert</h2>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      </div>
+      <div class="popupcontent modal-body">
+        <p id="alertpopupmessage"><!-- Filled by openAlertPopup() when the popup is opened --></p><input class="btn btn-primary btn-block button250" data-dismiss="modal" type="button" value="OK" />
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    <!-- Help and privacy popups -->
+    
+<div id="helppopup" class="modal" tabindex="-1" role="dialog" aria-labelledby="helppopuplabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 id="helppopuplabel" class="modal-title">Help</h2>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      </div>
+      <div class="popupcontent modal-body">
+        <!-- Filled by openHelpPopup() -->
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+<div id="privacypopup" class="modal" tabindex="-1" role="dialog" aria-labelledby="privacypopuplabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 id="privacypopuplabel" class="modal-title">Privacy policy</h2>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      </div>
+      <div class="popupcontent modal-body">
+        <!-- Filled by openPrivacyPopup() -->
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    <!-- "Edit value" popup -->
+    
+<div id="editvaluepopup" class="modal" tabindex="-1" role="dialog" aria-labelledby="editvaluepopuplabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 id="editvaluepopuplabel" class="modal-title">Edit</h2>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      </div>
+      <div class="popupcontent modal-body">
+        <!-- Filled by AJAX when the popup is opened -->
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  var editValueUnsavedChangesString = 'Are you sure you want to navigate away from this form?\n\nThere are unsaved changes that will be lost if you continue.\n\nPress OK to continue, or Cancel to stay on the current form.';
+
+  // Check for unsaved changes when the popup is closed
+  $("#editvaluepopup").on('hide.bs.modal', function (e) { return closeEditValuePopup(); });
+</script>
+
+
+    <!-- "Add user list item(s)" and "Move user list item" popups, if user lists are enabled -->
+    
+      
+<div id="adduserlistitemspopup" class="modal" tabindex="-1" role="dialog" aria-labelledby="adduserlistitemspopuplabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 id="adduserlistitemspopuplabel" class="modal-title">Add to private list</h2>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      </div>
+      <div class="popupcontent modal-body">
+        <!-- Filled by openAddUserListItemsPopup() -->
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+<div id="moveuserlistitempopup" class="modal" tabindex="-1" role="dialog" aria-labelledby="moveuserlistitempopuplabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 id="moveuserlistitempopuplabel" class="modal-title">Move to another list</h2>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      </div>
+      <div class="popupcontent modal-body">
+        <!-- Filled by openMoveUserListItemPopup() -->
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    
+      
+        <!-- 
+Elapsed time: 0.662181s
+User time: 0.358945s
+System time: 0.049992s
+Children user time: 0.000000s
+Children system time: 0.000000s
+ -->
+
+  </body>
+</html>
+

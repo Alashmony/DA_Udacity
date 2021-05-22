@@ -1,0 +1,46 @@
+https://en.wikipedia.org/wiki/Click-through_rate
+https://charliepark.org/slopegraphs/
+
+Dataset:
+https://www.kaggle.com/udacity/armenian-online-job-postings/version/1
+User (Google)
+https://en.wikipedia.org/wiki/Scientific_method#Documentation_and_replication
+
+ZipFile
+https://docs.python.org/3/library/zipfile.html#zipfile-objects
+https://www.lifewire.com/zip-file-2622675
+
+context managers:
+https://jeffknupp.com/blog/2016/03/07/python-with-context-managers/
+
+read_csv:
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html
+
+Pandas:
+https://stackoverflow.com/questions/706595/can-you-define-aliases-for-imported-modules-in-python
+
+Aliasing:
+https://www.digitalocean.com/community/tutorials/how-to-import-modules-in-python-3#aliasing-modules
+
+http://www.jeannicholashould.com/tidy-data-in-python.html
+
+HTML Escape characters:
+https://en.wikipedia.org/wiki/Escape_character
+
+Tidy:
+https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.htmls
+https://simplystatistics.org/2016/02/17/non-tidy-data/
+
+https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/s
+
+Loops:
+https://wiki.python.org/moin/ForLoop
+
+https://pandas.pydata.org/pandas-docs/stable/user_guide/options.html
+
+https://pandas.pydata.org/pandas-docs/stable/whatsnew/index.html
+https://www.tutorialspoint.com/python/assertions_in_python.htm
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.values.html
+
+https://tdwi.org/articles/2017/02/10/data-wrangling-and-etl-differences.aspx
